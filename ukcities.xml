@@ -1,0 +1,3850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2013-08-05T05:40:02Z"/>
+
+  <node id="107775" lat="51.5073208" lon="-0.1276363">
+    <tag k="capital" v="yes"/>
+    <tag k="ele" v="15"/>
+    <tag k="is_capital" v="country"/>
+    <tag k="is_in" v="England, United Kingdom, UK, Great Britain, Europe"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="media:commons" v="https://commons.wikimedia.org/wiki/Category:London"/>
+    <tag k="name" v="London"/>
+    <tag k="name:ab" v="Лондан"/>
+    <tag k="name:af" v="Londen"/>
+    <tag k="name:am" v="ለንደን"/>
+    <tag k="name:an" v="Londres"/>
+    <tag k="name:ang" v="Lunden"/>
+    <tag k="name:ar" v="لندن"/>
+    <tag k="name:arc" v="ܠܘܢܕܘܢ"/>
+    <tag k="name:arz" v="لندن"/>
+    <tag k="name:ast" v="Londres"/>
+    <tag k="name:ba" v="Лондон"/>
+    <tag k="name:bat-smg" v="Londons"/>
+    <tag k="name:bcl" v="Londres"/>
+    <tag k="name:be" v="Лондан"/>
+    <tag k="name:be-x-old" v="Лёндан"/>
+    <tag k="name:bg" v="Лондон"/>
+    <tag k="name:bn" v="লন্ডন"/>
+    <tag k="name:bo" v="ལོན་ཊོན།"/>
+    <tag k="name:br" v="Londrez"/>
+    <tag k="name:ca" v="Londres"/>
+    <tag k="name:cdo" v="Lùng-dŭng"/>
+    <tag k="name:ckb" v="لەندەن"/>
+    <tag k="name:co" v="Londra"/>
+    <tag k="name:cs" v="Londýn"/>
+    <tag k="name:cu" v="Лондонъ"/>
+    <tag k="name:cv" v="Лондон"/>
+    <tag k="name:cy" v="Llundain"/>
+    <tag k="name:de" v="London"/>
+    <tag k="name:diq" v="Londra"/>
+    <tag k="name:el" v="Λονδίνο"/>
+    <tag k="name:eml" v="Lòndra"/>
+    <tag k="name:en" v="London"/>
+    <tag k="name:eo" v="Londono"/>
+    <tag k="name:es" v="Londres"/>
+    <tag k="name:eu" v="Londres"/>
+    <tag k="name:ext" v="Londri"/>
+    <tag k="name:fa" v="لندن"/>
+    <tag k="name:fi" v="Lontoo"/>
+    <tag k="name:fr" v="Londres"/>
+    <tag k="name:frp" v="Londres"/>
+    <tag k="name:fy" v="Londen"/>
+    <tag k="name:ga" v="Londain"/>
+    <tag k="name:gan" v="倫敦"/>
+    <tag k="name:gd" v="Lunnainn"/>
+    <tag k="name:gl" v="Londres - London"/>
+    <tag k="name:gn" v="Londye"/>
+    <tag k="name:gu" v="લંડન"/>
+    <tag k="name:gv" v="Lunnin"/>
+    <tag k="name:haw" v="Lākana"/>
+    <tag k="name:he" v="לונדון"/>
+    <tag k="name:hi" v="लंदन"/>
+    <tag k="name:ht" v="Lonn"/>
+    <tag k="name:hy" v="Լոնդոն"/>
+    <tag k="name:ilo" v="Londres"/>
+    <tag k="name:is" v="Lundúnir"/>
+    <tag k="name:it" v="Londra"/>
+    <tag k="name:ja" v="ロンドン"/>
+    <tag k="name:jbo" v="london"/>
+    <tag k="name:ka" v="ლონდონი"/>
+    <tag k="name:kk" v="Лондон"/>
+    <tag k="name:kn" v="ಲಂಡನ್"/>
+    <tag k="name:ko" v="런던"/>
+    <tag k="name:koi" v="Лондон"/>
+    <tag k="name:krc" v="Лондон"/>
+    <tag k="name:ku" v="London"/>
+    <tag k="name:kv" v="Лондон"/>
+    <tag k="name:kw" v="Loundres"/>
+    <tag k="name:ky" v="Лондон"/>
+    <tag k="name:la" v="Londinium"/>
+    <tag k="name:lad" v="Londra"/>
+    <tag k="name:lbe" v="Лондон"/>
+    <tag k="name:lez" v="Лондон"/>
+    <tag k="name:li" v="Londe"/>
+    <tag k="name:lij" v="Londra"/>
+    <tag k="name:lmo" v="Lundra"/>
+    <tag k="name:ln" v="Londoni"/>
+    <tag k="name:lo" v="ລອນດອນ"/>
+    <tag k="name:lt" v="Londonas"/>
+    <tag k="name:lv" v="Londona"/>
+    <tag k="name:mhr" v="Лондон"/>
+    <tag k="name:mi" v="Rānana"/>
+    <tag k="name:mk" v="Лондон"/>
+    <tag k="name:ml" v="ലണ്ടൻ"/>
+    <tag k="name:mn" v="Лондон"/>
+    <tag k="name:mr" v="लंडन"/>
+    <tag k="name:mrj" v="Лондон"/>
+    <tag k="name:mt" v="Londra"/>
+    <tag k="name:mwl" v="Londres"/>
+    <tag k="name:my" v="လန်ဒန်မြို့"/>
+    <tag k="name:mzn" v="لندن"/>
+    <tag k="name:nah" v="Londres"/>
+    <tag k="name:nap" v="Londra"/>
+    <tag k="name:nds-nl" v="Londen"/>
+    <tag k="name:ne" v="लण्डन"/>
+    <tag k="name:new" v="लण्डन"/>
+    <tag k="name:nl" v="Londen"/>
+    <tag k="name:nrm" v="Londres"/>
+    <tag k="name:oc" v="Londres"/>
+    <tag k="name:or" v="ଲଣ୍ଡନ"/>
+    <tag k="name:os" v="Лондон"/>
+    <tag k="name:pcd" v="Londe"/>
+    <tag k="name:pl" v="Londyn"/>
+    <tag k="name:pms" v="Londra"/>
+    <tag k="name:pnb" v="لندن"/>
+    <tag k="name:pnt" v="Λονδίνο"/>
+    <tag k="name:ps" v="لندن"/>
+    <tag k="name:pt" v="Londres"/>
+    <tag k="name:rm" v="Londra"/>
+    <tag k="name:ro" v="Londra"/>
+    <tag k="name:roa-rup" v="Londra"/>
+    <tag k="name:roa-tara" v="Londre"/>
+    <tag k="name:ru" v="Лондон"/>
+    <tag k="name:rue" v="Лондон"/>
+    <tag k="name:sa" v="लन्डन्"/>
+    <tag k="name:sah" v="Лондон"/>
+    <tag k="name:sc" v="Londra"/>
+    <tag k="name:scn" v="Londra"/>
+    <tag k="name:sco" v="Lunnon"/>
+    <tag k="name:si" v="ලන්ඩන්"/>
+    <tag k="name:sk" v="Londýn"/>
+    <tag k="name:sq" v="Londra"/>
+    <tag k="name:sr" v="Лондон"/>
+    <tag k="name:sv" v="London"/>
+    <tag k="name:szl" v="Lůndůn"/>
+    <tag k="name:ta" v="இலண்டன்"/>
+    <tag k="name:te" v="లండన్"/>
+    <tag k="name:tet" v="Londres"/>
+    <tag k="name:tg" v="Лондон"/>
+    <tag k="name:th" v="ลอนดอน"/>
+    <tag k="name:tl" v="Londres"/>
+    <tag k="name:tpi" v="Landen"/>
+    <tag k="name:tr" v="Londra"/>
+    <tag k="name:tt" v="Лондон"/>
+    <tag k="name:udm" v="Лондон"/>
+    <tag k="name:uk" v="Лондон"/>
+    <tag k="name:ur" v="لندن"/>
+    <tag k="name:vec" v="Łondra"/>
+    <tag k="name:vi" v="Luân Đôn"/>
+    <tag k="name:vls" v="Londn"/>
+    <tag k="name:wo" v="Londar"/>
+    <tag k="name:wuu" v="伦敦"/>
+    <tag k="name:xmf" v="ლონდონი"/>
+    <tag k="name:yi" v="לאנדאן"/>
+    <tag k="name:yo" v="Lọndọnu"/>
+    <tag k="name:zea" v="Londen"/>
+    <tag k="name:zh" v="伦敦"/>
+    <tag k="name:zh-classical" v="倫敦"/>
+    <tag k="name:zh-yue" v="倫敦"/>
+    <tag k="name:zh_pinyin" v="Lúndūn"/>
+    <tag k="name:zu" v="ILondon"/>
+    <tag k="note" v="Centre of London classed as on the charles I moment near trafalgar square"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="8174000"/>
+    <tag k="website" v="http://www.london.gov.uk/"/>
+    <tag k="wikipedia" v="en:London"/>
+  </node>
+  <node id="285832" lat="50.9035305" lon="-1.4041996">
+    <tag k="alt_name" v="Soton"/>
+    <tag k="is_in" v="Hampshire, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:country_code" v="GB"/>
+    <tag k="is_in:county" v="Hampshire"/>
+    <tag k="name" v="Southampton"/>
+    <tag k="name:ja" v="サウサンプトン"/>
+    <tag k="name:ru" v="Саутгемптон"/>
+    <tag k="name:sr" v="Саутемптон"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="228600"/>
+    <tag k="wikipedia:en" v="Southampton"/>
+  </node>
+  <node id="328831" lat="54.8847075" lon="-2.8839376"/>
+  <node id="358309" lat="53.7974185" lon="-1.5437941">
+    <tag k="is_in" v="UK,United Kingdom, Yorkshire,West Yorkshire, Airedale"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="West Yorkshire"/>
+    <tag k="is_in:historic_county" v="Yorkshire"/>
+    <tag k="name" v="Leeds"/>
+    <tag k="name:ja" v="リーズ"/>
+    <tag k="name:ru" v="Лидс"/>
+    <tag k="name:sr" v="Лидс"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="770800"/>
+  </node>
+  <node id="422162" lat="53.3820287" lon="-1.4657174">
+    <tag k="designation" v="City"/>
+    <tag k="is_capital" v="County"/>
+    <tag k="is_in" v="South Yorkshire, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="SouthYorkshire"/>
+    <tag k="is_in:historic_county" v="West Yorkshire"/>
+    <tag k="name" v="Sheffield"/>
+    <tag k="name:ar" v="شفيلد"/>
+    <tag k="name:be" v="Шэфілд"/>
+    <tag k="name:bg" v="Шефилд"/>
+    <tag k="name:el" v="Σέφιλντ"/>
+    <tag k="name:fa" v="شفیلد"/>
+    <tag k="name:he" v="שפילד"/>
+    <tag k="name:hi" v="शेफ़ील्ड"/>
+    <tag k="name:ja" v="シェフィールド"/>
+    <tag k="name:ko" v="셰필드"/>
+    <tag k="name:lt" v="Šefildas"/>
+    <tag k="name:lv" v="Šefīlda"/>
+    <tag k="name:mk" v="Шефилд"/>
+    <tag k="name:mr" v="शेफील्ड"/>
+    <tag k="name:os" v="Шеффилд"/>
+    <tag k="name:pnb" v="شیفیلڈ"/>
+    <tag k="name:ru" v="Шеффилд"/>
+    <tag k="name:sr" v="Шефилд"/>
+    <tag k="name:te" v="షెఫీల్డ్"/>
+    <tag k="name:th" v="เชฟฟีลด์"/>
+    <tag k="name:uk" v="Шеффілд"/>
+    <tag k="name:zh" v="谢菲尔德"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="547000"/>
+    <tag k="source" v="http://www.sheffield.gov.uk/your-city-council/sheffield-facts-figures/sheffield-profile"/>
+    <tag k="wikipedia" v="en:Sheffield"/>
+  </node>
+  <node id="1947201" lat="51.3813864" lon="-2.3596963">
+    <tag k="heritage" v="1"/>
+    <tag k="heritage:operator" v="whc"/>
+    <tag k="heritage:website" v="http://whc.unesco.org/en/list/428"/>
+    <tag k="is_in" v="Somerset, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Somerset"/>
+    <tag k="name" v="Bath"/>
+    <tag k="name:cy" v="Caerfaddon"/>
+    <tag k="name:lt" v="Batas"/>
+    <tag k="name:ru" v="Бат"/>
+    <tag k="name:sr" v="Бат"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="84000"/>
+    <tag k="postal_code" v="BA1"/>
+    <tag k="ref:whc" v="428"/>
+    <tag k="whc:criteria" v="(i)(ii)(iv)"/>
+    <tag k="whc:inscription_date" v="1987"/>
+    <tag k="wikipedia" v="en:Bath,_Somerset"/>
+  </node>
+  <node id="3216768" lat="51.8812739" lon="-5.2659077">
+    <tag k="is_in" v="Wales"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Pembrokeshire"/>
+    <tag k="name" v="St David's"/>
+    <tag k="name:cy" v="Tyddewi"/>
+    <tag k="name:en" v="St David's"/>
+    <tag k="name:ru" v="Сент-Дейвидс"/>
+    <tag k="note" v="the &quot;city&quot; is on paper, what's on the ground is a small town"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="1600"/>
+    <tag k="wikipedia" v="en:St Davids"/>
+  </node>
+  <node id="8087537" lat="53.1908873" lon="-2.8908955">
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="name" v="Chester"/>
+    <tag k="name:cy" v="Caer"/>
+    <tag k="name:en" v="Chester"/>
+    <tag k="name:eo" v="Ĉestro"/>
+    <tag k="name:lt" v="Česteris"/>
+    <tag k="name:ru" v="Честер"/>
+    <tag k="name:sr" v="Честер"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="119000"/>
+    <tag k="wikipedia:eo" v="Chester"/>
+  </node>
+  <node id="10021976" lat="52.6367811" lon="-1.1312289">
+    <tag k="is_in" v="Leicestershire, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Leicestershire"/>
+    <tag k="media:commons" v="https://commons.wikimedia.org/wiki/Category:Leicester"/>
+    <tag k="name" v="Leicester"/>
+    <tag k="name:cy" v="Caerlŷr"/>
+    <tag k="name:ja" v="レスター"/>
+    <tag k="name:lt" v="Lesteris"/>
+    <tag k="name:ru" v="Лестер"/>
+    <tag k="name:sr" v="Лестер"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="305700"/>
+    <tag k="wikipedia" v="en:Leicester"/>
+  </node>
+  <node id="10671639" lat="53.2336131" lon="-0.5392104">
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Lincolnshire"/>
+    <tag k="name" v="Lincoln"/>
+    <tag k="name:ast" v="Lincoln, Inglaterra"/>
+    <tag k="name:he" v="לינקולן"/>
+    <tag k="name:ru" v="Линкольн"/>
+    <tag k="name:sr" v="Линколн"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="86000"/>
+    <tag k="wikipedia" v="Lincoln,_Lincolnshire"/>
+  </node>
+  <node id="11127374" lat="55.8611470" lon="-4.2499891">
+    <tag k="is_in" v="Scotland, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="City of Glasgow"/>
+    <tag k="name" v="Glasgow"/>
+    <tag k="name:en" v="Glasgow"/>
+    <tag k="name:eo" v="Glasgovo"/>
+    <tag k="name:gd" v="Glaschu"/>
+    <tag k="name:ja" v="グラスゴー"/>
+    <tag k="name:lt" v="Glazgas"/>
+    <tag k="name:lv" v="Glāzgova"/>
+    <tag k="name:ru" v="Глазго"/>
+    <tag k="name:sr" v="Глазгов"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="580690"/>
+    <tag k="postal_code" v="G"/>
+  </node>
+  <node id="11235057" lat="52.6286576" lon="1.2922681">
+    <tag k="is_in" v="England, Norfolk"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Norfolk"/>
+    <tag k="name" v="Norwich"/>
+    <tag k="name:en" v="Norwich"/>
+    <tag k="name:ru" v="Норидж"/>
+    <tag k="name:sr" v="Норич"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="195000"/>
+    <tag k="wikipedia" v="en:Norwich"/>
+  </node>
+  <node id="12805909" lat="51.7521553" lon="-1.2582135">
+    <tag k="is_in" v="Oxfordshire, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Oxfordshire"/>
+    <tag k="name" v="Oxford"/>
+    <tag k="name:cy" v="Rhydychen"/>
+    <tag k="name:en" v="Oxford"/>
+    <tag k="name:eo" v="Oksfordo"/>
+    <tag k="name:gd" v="Àth nan Damh"/>
+    <tag k="name:la" v="Oxonia"/>
+    <tag k="name:pl" v="Oksford"/>
+    <tag k="name:ru" v="Оксфорд"/>
+    <tag k="name:sr" v="Оксфорд"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="165000"/>
+    <tag k="wikipedia:eo" v="Oksfordo"/>
+  </node>
+  <node id="15656426" lat="51.2084734" lon="-2.6517961">
+    <tag k="is_in" v="Somerset, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Somerset"/>
+    <tag k="name" v="Wells"/>
+    <tag k="name:ru" v="Уэллс"/>
+    <tag k="name:sr" v="Велс"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="10000"/>
+  </node>
+  <node id="17721995" lat="50.8065249" lon="-1.0744016">
+    <tag k="is_in" v="EnglaHampshire, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:country_code" v="GB"/>
+    <tag k="is_in:county" v="Hampshire"/>
+    <tag k="name" v="Portsmouth"/>
+    <tag k="name:ru" v="Портсмут"/>
+    <tag k="name:sr" v="Портсмут"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="197700"/>
+    <tag k="url" v="http://www.visitportsmouth.co.uk"/>
+  </node>
+  <node id="17857512" lat="51.8629188" lon="-2.2466485">
+    <tag k="is_in" v="England, Gloucestershire"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Gloucestershire"/>
+    <tag k="name" v="Gloucester"/>
+    <tag k="name:cy" v="Caerloyw"/>
+    <tag k="name:ru" v="Глостер"/>
+    <tag k="name:sr" v="Глостер"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="121700"/>
+  </node>
+  <node id="17859918" lat="52.4081812" lon="-1.5104770">
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="West Midlands"/>
+    <tag k="name" v="Coventry"/>
+    <tag k="name:ja" v="コヴェントリー"/>
+    <tag k="name:ru" v="Ковентри"/>
+    <tag k="name:sr" v="Ковентри"/>
+    <tag k="name:zh" v="考文垂"/>
+    <tag k="name:zh_pinyin" v="Kǎowénchuí"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="315739"/>
+    <tag k="source:population" v="council tax bill 2012"/>
+  </node>
+  <node id="17861291" lat="52.4813679" lon="-1.8980726">
+    <tag k="is_in" v="West Midlands, England, United Kingdom"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="West Midlands"/>
+    <tag k="loc_name" v="Brum"/>
+    <tag k="name" v="Birmingham"/>
+    <tag k="name:hi" v="बर्मिंगम्"/>
+    <tag k="name:ja" v="バーミンガム"/>
+    <tag k="name:kn" v="ಬರ್ಮಿಂಗಮ್"/>
+    <tag k="name:lt" v="Birmingamas"/>
+    <tag k="name:ru" v="Бирмингем"/>
+    <tag k="name:sr" v="Бирмингем"/>
+    <tag k="old_name" v="Brummagem"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="1036878"/>
+    <tag k="source:population" v="Council tax bill 2012"/>
+  </node>
+  <node id="17898859" lat="55.9483399" lon="-3.1932723">
+    <tag k="capital" v="4"/>
+    <tag k="is_in" v="Scotland, United Kingdom, UK, Great Britain, Europe"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="name" v="Edinburgh"/>
+    <tag k="name:ar" v="إدنبرة"/>
+    <tag k="name:ast" v="Edimburgo"/>
+    <tag k="name:cy" v="Caeredin"/>
+    <tag k="name:de" v="Edinburg"/>
+    <tag k="name:eo" v="Edinburgo"/>
+    <tag k="name:es" v="Edimburgo"/>
+    <tag k="name:eu" v="Edinburgo"/>
+    <tag k="name:fr" v="Édimbourg"/>
+    <tag k="name:gd" v="Dùn Èideann"/>
+    <tag k="name:gv" v="Doon Edin"/>
+    <tag k="name:he" v="אדינבורג"/>
+    <tag k="name:is" v="Edinborg"/>
+    <tag k="name:it" v="Edimburgo"/>
+    <tag k="name:ja" v="エディンバラ"/>
+    <tag k="name:lt" v="Edinburgas"/>
+    <tag k="name:lv" v="Edinburga"/>
+    <tag k="name:pl" v="Edynburg"/>
+    <tag k="name:pronunciation" v="ˈɛdɪnb(ə)rə"/>
+    <tag k="name:ru" v="Эдинбург"/>
+    <tag k="name:sk" v="Edinburg"/>
+    <tag k="name:sr" v="Единбург"/>
+    <tag k="name:sv" v="Edinburgh"/>
+    <tag k="name:tt" v="Эдинбург"/>
+    <tag k="name:uk" v="Единбург"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="457830"/>
+    <tag k="source_ref:capital" v="http://comments.gmane.org/gmane.comp.gis.openstreetmap/55712"/>
+  </node>
+  <node id="17916174" lat="51.2800275" lon="1.0802533">
+    <tag k="is_in" v="Kent, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Kent"/>
+    <tag k="name" v="Canterbury"/>
+    <tag k="name:cy" v="Caergaint"/>
+    <tag k="name:fr" v="Cantorbéry"/>
+    <tag k="name:lv" v="Kanterburija"/>
+    <tag k="name:ru" v="Кентербери"/>
+    <tag k="name:sr" v="Кентербери"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="43400"/>
+  </node>
+  <node id="17951258" lat="52.5738875" lon="-0.2416701">
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Cambridgeshire"/>
+    <tag k="name" v="Peterborough"/>
+    <tag k="name:ru" v="Питерборо"/>
+    <tag k="name:sr" v="Питерборо"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="183600"/>
+  </node>
+  <node id="17986274" lat="50.3712659" lon="-4.1425658">
+    <tag k="is_in" v="Devon, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:country_code" v="GB"/>
+    <tag k="is_in:county" v="Devon"/>
+    <tag k="name" v="Plymouth"/>
+    <tag k="name:be" v="Плімут"/>
+    <tag k="name:cy" v="Aberplym"/>
+    <tag k="name:ja" v="プリマス"/>
+    <tag k="name:ru" v="Плимут"/>
+    <tag k="name:sr" v="Плимут"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="258700"/>
+  </node>
+  <node id="18009959" lat="50.7256471" lon="-3.5266611">
+    <tag k="is_in" v="Devon, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:country_code" v="GB"/>
+    <tag k="is_in:county" v="Devon"/>
+    <tag k="name" v="Exeter"/>
+    <tag k="name:be" v="Эксэтэр"/>
+    <tag k="name:cy" v="Caerwysg"/>
+    <tag k="name:en" v="Exeter"/>
+    <tag k="name:lt" v="Ekseteris"/>
+    <tag k="name:ru" v="Эксетер"/>
+    <tag k="name:sr" v="Ексетер"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="119600"/>
+  </node>
+  <node id="18352503" lat="52.2181352" lon="0.1649654"/>
+  <node id="20910685" lat="54.9770924" lon="-1.6142059">
+    <tag k="alt_name" v="Newcastle"/>
+    <tag k="is_in" v="UK, England, Northumberland, Tyne &amp; Wear"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Tyne and Wear"/>
+    <tag k="is_in:historic_county" v="Northumberland"/>
+    <tag k="name" v="Newcastle upon Tyne"/>
+    <tag k="name:fr" v="Newcastle"/>
+    <tag k="name:gd" v="An Caisteal Nuadh"/>
+    <tag k="name:ru" v="Ньюкасл-апон-Тайн"/>
+    <tag k="name:sr" v="Њукастл"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="280200"/>
+  </node>
+  <node id="20913294" lat="53.9590555" lon="-1.0815361">
+    <tag k="int_name" v="York"/>
+    <tag k="is_in" v="England, North Yorkshire"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:historic_county" v="Yorkshire"/>
+    <tag k="name" v="York"/>
+    <tag k="name:cy" v="Efrog"/>
+    <tag k="name:eo" v="Jorko"/>
+    <tag k="name:ga" v="Eabhrac"/>
+    <tag k="name:is" v="Jórvík"/>
+    <tag k="name:lt" v="Jorkas"/>
+    <tag k="name:ru" v="Йорк"/>
+    <tag k="name:sr" v="Јорк"/>
+    <tag k="note:population" v="2001 urban Population"/>
+    <tag k="old_name" v="Eboracum"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="137000"/>
+    <tag k="wikipedia" v="en:York"/>
+  </node>
+  <node id="20949228" lat="54.8955354" lon="-2.9347352">
+    <tag k="is_in" v="Cumbria, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Cumbria"/>
+    <tag k="is_in:historic_county" v="Cumberland"/>
+    <tag k="name" v="Carlisle"/>
+    <tag k="name:cy" v="Caerliwelydd"/>
+    <tag k="name:en" v="Carlisle"/>
+    <tag k="name:ru" v="Карлайл"/>
+    <tag k="name:sr" v="Карлајл"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="72000"/>
+  </node>
+  <node id="20959520" lat="54.9063791" lon="-1.3750530">
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Tyne and Wear"/>
+    <tag k="is_in:historic_county" v="County Durham"/>
+    <tag k="name" v="Sunderland"/>
+    <tag k="name:ru" v="Сандерленд"/>
+    <tag k="name:sr" v="Садерленд"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="280300"/>
+  </node>
+  <node id="20971094" lat="52.2033051" lon="0.1248620">
+    <tag k="is_in" v="Cambridgeshire, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Cambridgeshire"/>
+    <tag k="name" v="Cambridge"/>
+    <tag k="name:cy" v="Caergrawnt"/>
+    <tag k="name:eo" v="Kembriĝo"/>
+    <tag k="name:ru" v="Кембридж"/>
+    <tag k="name:sr" v="Кембриџ"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="130000"/>
+    <tag k="wikipedia:eo" v="Kembriĝo (Britio)"/>
+  </node>
+  <node id="20971097" lat="52.1918287" lon="-2.2216009">
+    <tag k="is_in" v="Worcestershire"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Worcestershire"/>
+    <tag k="name" v="Worcester"/>
+    <tag k="name:cy" v="Caerwrangon"/>
+    <tag k="name:ru" v="Вустер"/>
+    <tag k="name:sr" v="Вустер"/>
+    <tag k="note" v="City centre street names largely done from memory and ooc maps"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="94000"/>
+  </node>
+  <node id="21025675" lat="51.7345403" lon="0.4723823">
+    <tag k="is_in" v="England, Essex"/>
+    <tag k="name" v="Chelmsford"/>
+    <tag k="name:en" v="Chelmsford"/>
+    <tag k="name:ru" v="Челмсфорд"/>
+    <tag k="name:sr" v="Челмсфорд"/>
+    <tag k="note" v="place=city status awarded by the queen in March 2012.  The county town of Essex"/>
+    <tag k="old_name" v="Caesaromagus"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="120000"/>
+  </node>
+  <node id="21027566" lat="53.6825669" lon="-1.5000466">
+    <tag k="is_in" v="West Yorkshire, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="West Yorkshire"/>
+    <tag k="is_in:historic_county" v="Yorkshire"/>
+    <tag k="name" v="Wakefield"/>
+    <tag k="name:sr" v="Вејкфилд"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="322300"/>
+  </node>
+  <node id="21063119" lat="57.4790124" lon="-4.2257390">
+    <tag k="is_in" v="Highland, Scotland, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="name" v="Inverness"/>
+    <tag k="name:en" v="Inverness"/>
+    <tag k="name:gd" v="Inbhir Nis"/>
+    <tag k="name:ja" v="インヴァネス"/>
+    <tag k="name:ru" v="Инвернесс"/>
+    <tag k="name:sr" v="Инвернес"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="59000"/>
+    <tag k="wikipedia" v="en:Inverness"/>
+  </node>
+  <node id="21063362" lat="57.1452452" lon="-2.0913745">
+    <tag k="is_in" v="Scotland"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:historic_county" v="Aberdeenshire"/>
+    <tag k="name" v="Aberdeen"/>
+    <tag k="name:gd" v="Obar Dheathain"/>
+    <tag k="name:ja" v="アバディーン"/>
+    <tag k="name:ru" v="Абердин"/>
+    <tag k="name:sr" v="Абердин"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="220420"/>
+  </node>
+  <node id="21063632" lat="51.6211442" lon="-3.9467751">
+    <tag k="is_in" v="Wales,UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:historic_county" v="Glamorganshire"/>
+    <tag k="is_in:preserved_county" v="West Glamorgan"/>
+    <tag k="name" v="Swansea"/>
+    <tag k="name:cy" v="Abertawe"/>
+    <tag k="name:ja" v="スウォンジ"/>
+    <tag k="name:ru" v="Суонси"/>
+    <tag k="name:sr" v="Свонзи"/>
+    <tag k="nat_name" v="Abertawe"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="239000"/>
+  </node>
+  <node id="21091709" lat="56.1181242" lon="-3.9360012">
+    <tag k="is_in" v="Scotland, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:historic_county" v="Stirlingshire"/>
+    <tag k="name" v="Stirling"/>
+    <tag k="name:gd" v="Sruighlea"/>
+    <tag k="name:ja" v="スターリング"/>
+    <tag k="name:ru" v="Стирлинг"/>
+    <tag k="name:sr" v="Стирлинг"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="33700"/>
+  </node>
+  <node id="21141604" lat="52.6843696" lon="-1.8275286">
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Staffordshire"/>
+    <tag k="is_in:historic_county" v="Staffordshire"/>
+    <tag k="name" v="Lichfield"/>
+    <tag k="name:bg" v="Личфийлд"/>
+    <tag k="name:cy" v="Caerlwytgoed"/>
+    <tag k="name:la" v="Letocetum"/>
+    <tag k="name:ru" v="Личфилд"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="30600"/>
+    <tag k="source" v="NPE"/>
+  </node>
+  <node id="21181736" lat="54.7763893" lon="-1.5758691">
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Durham"/>
+    <tag k="is_in:historic_county" v="County Durham"/>
+    <tag k="name" v="Durham"/>
+    <tag k="name:en" v="Durham"/>
+    <tag k="name:lt" v="Daramas"/>
+    <tag k="name:ru" v="Дарем"/>
+    <tag k="name:sr" v="Дарам"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="42100"/>
+    <tag k="source:name" v="common knowledge"/>
+  </node>
+  <node id="21262494" lat="56.3956402" lon="-3.4345334">
+    <tag k="addr:postcode" v="PH1"/>
+    <tag k="is_in" v="Perthshire, Scotland, United Kingdom"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="name" v="Perth"/>
+    <tag k="name:en" v="Perth"/>
+    <tag k="name:gd" v="Peairt"/>
+    <tag k="name:lt" v="Pertas"/>
+    <tag k="name:ru" v="Перт"/>
+    <tag k="name:sr" v="Перт"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="45000"/>
+    <tag k="wikipedia" v="Perth, Scotland"/>
+  </node>
+  <node id="21262495" lat="56.4593653" lon="-2.9735213">
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="name" v="Dundee"/>
+    <tag k="name:en" v="Dundee"/>
+    <tag k="name:gd" v="Dùn Dèagh"/>
+    <tag k="name:lt" v="Dandi"/>
+    <tag k="name:ru" v="Данди"/>
+    <tag k="name:sr" v="Данди"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="140000"/>
+  </node>
+  <node id="21280555" lat="52.0553813" lon="-2.7151735">
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Herefordshire"/>
+    <tag k="name" v="Hereford"/>
+    <tag k="name:cy" v="Henffordd"/>
+    <tag k="name:ru" v="Херефорд"/>
+    <tag k="name:sr" v="Херефорд"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="55800"/>
+    <tag k="source" v="NPE"/>
+    <tag k="wikipedia" v="en:Hereford"/>
+  </node>
+  <node id="21413563" lat="53.2277187" lon="-4.1268822">
+    <tag k="is_in" v="Wales"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Gwynedd"/>
+    <tag k="name" v="Bangor"/>
+    <tag k="name:ru" v="Бангор"/>
+    <tag k="name:sr" v="Бангор"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="13700"/>
+    <tag k="source" v="Personal knowledge"/>
+    <tag k="wikipedia" v="Bangor,_Gwynedd"/>
+  </node>
+  <node id="21421501" lat="53.4054719" lon="-2.9805393">
+    <tag k="is_in" v="Merseyside, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:country_code" v="GB"/>
+    <tag k="is_in:county" v="Merseyside"/>
+    <tag k="is_in:historic_county" v="Lancashire"/>
+    <tag k="name" v="Liverpool"/>
+    <tag k="name:cy" v="Lerpwl"/>
+    <tag k="name:eo" v="Liverpolo"/>
+    <tag k="name:gv" v="Lerphoyll"/>
+    <tag k="name:ja" v="リヴァプール"/>
+    <tag k="name:lv" v="Liverpūle"/>
+    <tag k="name:ru" v="Ливерпуль"/>
+    <tag k="name:sr" v="Ливерпул"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="434900"/>
+  </node>
+  <node id="21436318" lat="53.7589938" lon="-2.7051618">
+    <tag k="is_in" v="Lancashire, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Lancashire"/>
+    <tag k="name" v="Preston"/>
+    <tag k="name:en" v="Preston"/>
+    <tag k="name:ru" v="Престон"/>
+    <tag k="name:sr" v="Престон"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="114300"/>
+    <tag k="source" v="NPE"/>
+  </node>
+  <node id="21904579" lat="52.9212617" lon="-1.4761491">
+    <tag k="is_in" v="England, Derbyshire"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Derbyshire"/>
+    <tag k="name" v="Derby"/>
+    <tag k="name:ar" v="ديربي"/>
+    <tag k="name:en" v="Derby"/>
+    <tag k="name:lt" v="Derbis"/>
+    <tag k="name:ru" v="Дерби"/>
+    <tag k="name:sr" v="Дарби"/>
+    <tag k="name:uk" v="Дербі"/>
+    <tag k="name:zh" v="德比"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="233700"/>
+    <tag k="wikipedia" v="en:Derby"/>
+  </node>
+  <node id="24913081" lat="52.9549771" lon="-1.1511066">
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Nottinghamshire"/>
+    <tag k="name" v="Nottingham"/>
+    <tag k="name:en" v="Nottingham"/>
+    <tag k="name:ja" v="ノッティンガム"/>
+    <tag k="name:ru" v="Ноттингем"/>
+    <tag k="name:sr" v="Нотингем"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="305700"/>
+  </node>
+  <node id="25342557" lat="51.7492956" lon="-0.3422526">
+    <tag k="is_in" v="Hertfordshire, England, UK"/>
+    <tag k="name" v="St Albans"/>
+    <tag k="name:en" v="St Albans"/>
+    <tag k="name:ru" v="Сент-Олбанс"/>
+    <tag k="name:sr" v="Сент Олбанс"/>
+    <tag k="not:name" v="Saint Albans"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="140600"/>
+    <tag k="website:official" v="http://www.stalbans.gov.uk"/>
+  </node>
+  <node id="25472086" lat="52.5847651" lon="-2.1275670">
+    <tag k="is_in" v="West Midlands, England, United Kingdom"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Staffordshire"/>
+    <tag k="is_in:district" v="Wolverhampton"/>
+    <tag k="name" v="Wolverhampton"/>
+    <tag k="name:ja" v="ウォルヴァーハンプトン"/>
+    <tag k="name:ru" v="Вулвергемптон"/>
+    <tag k="name:sr" v="Вулверхемптон"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="251462"/>
+    <tag k="source:population" v="urban area population, census 2001"/>
+  </node>
+  <node id="26528071" lat="53.0162014" lon="-2.1812607">
+    <tag k="alt_name" v="Stoke"/>
+    <tag k="name" v="Stoke-on-Trent"/>
+    <tag k="name:en" v="Stoke-on-Trent"/>
+    <tag k="name:ja" v="ストーク・オン・トレント"/>
+    <tag k="name:ru" v="Сток-он-Трент"/>
+    <tag k="name:sr" v="Стоук на Тренту"/>
+    <tag k="note" v="between stoke and hanley"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="249000"/>
+  </node>
+  <node id="26700976" lat="54.0484068" lon="-2.7990345">
+    <tag k="is_in" v="Lancashire, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Lancashire"/>
+    <tag k="name" v="Lancaster"/>
+    <tag k="name:cy" v="Caerhirfryn"/>
+    <tag k="name:eo" v="Lankastro"/>
+    <tag k="name:ru" v="Ланкастер"/>
+    <tag k="name:sr" v="Ланкастер"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="46000"/>
+  </node>
+  <node id="26700977" lat="51.5882332" lon="-2.9974967">
+    <tag k="is_in" v="Monmouthshire, United Kingdom"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:historic_county" v="Monmouthshire"/>
+    <tag k="is_in:preserved_county" v="Gwent"/>
+    <tag k="name" v="Newport"/>
+    <tag k="name:cy" v="Casnewydd"/>
+    <tag k="name:en" v="Newport"/>
+    <tag k="name:ja" v="ニューポート"/>
+    <tag k="name:la" v="Novus Burgus"/>
+    <tag k="name:ru" v="Ньюпорт"/>
+    <tag k="name:sr" v="Њупорт"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="140700"/>
+    <tag k="postal_code" v="NP"/>
+    <tag k="wikipedia" v="en:Newport"/>
+  </node>
+  <node id="26701158" lat="53.7657076" lon="-0.3370322">
+    <tag k="alt_name" v="Hull"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="East Yorkshire"/>
+    <tag k="is_in:historic_county" v="Yorkshire"/>
+    <tag k="name" v="Kingston upon Hull"/>
+    <tag k="name:ja" v="キングストン・アポン・ハル"/>
+    <tag k="name:ru" v="Кингстон-апон-Халл"/>
+    <tag k="name:sr" v="Кингстон на Халу"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="259000"/>
+    <tag k="wikipedia:en" v="Kingston_upon_Hull"/>
+  </node>
+  <node id="26701367" lat="53.7941567" lon="-1.7494778">
+    <tag k="is_in" v="UK,England,Yorkshire,West Yorkshire"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="West Yorkshire"/>
+    <tag k="is_in:historic_county" v="Yorkshire"/>
+    <tag k="name" v="Bradford"/>
+    <tag k="name:en" v="Bradford"/>
+    <tag k="name:ja" v="ブラッドフォード"/>
+    <tag k="name:ru" v="Брэдфорд"/>
+    <tag k="name:sr" v="Бредфорд"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="293717"/>
+  </node>
+  <node id="26867377" lat="50.2627515" lon="-5.0520467">
+    <tag k="is_in" v="Cornwall, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="England"/>
+    <tag k="is_in:country_code" v="GB"/>
+    <tag k="is_in:county" v="Cornwall"/>
+    <tag k="name" v="Truro"/>
+    <tag k="name:kw" v="Truru"/>
+    <tag k="name:ru" v="Труро"/>
+    <tag k="name:sr" v="Труро"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="17400"/>
+  </node>
+  <node id="26867545" lat="54.1368788" lon="-1.5213194">
+    <tag k="is_in" v="North Yorkshire, Yorkshire,England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="North Yorkshire"/>
+    <tag k="is_in:historic_county" v="Yorkshire"/>
+    <tag k="name" v="Ripon"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="16000"/>
+    <tag k="postal_code" v="HG4"/>
+  </node>
+  <node id="27209507" lat="50.8364999" lon="-0.7793194">
+    <tag k="is_in" v="West Sussex, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:country_code" v="GB"/>
+    <tag k="is_in:county" v="West Sussex"/>
+    <tag k="name" v="Chichester"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="23700"/>
+  </node>
+  <node id="27365306" lat="51.5019307" lon="-0.1273994">
+    <tag k="is_in" v="London, UK"/>
+    <tag k="name" v="Westminster"/>
+    <tag k="name:be" v="Вэстмінстэр"/>
+    <tag k="name:cy" v="San Steffan"/>
+    <tag k="name:en" v="Westminster"/>
+    <tag k="name:ru" v="Вестминстер"/>
+    <tag k="note" v="While promoted as a city, it is in reality a city within a city, hence the choice of tag value."/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="219400"/>
+    <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Westminster"/>
+  </node>
+  <node id="27459584" lat="53.2587982" lon="-3.4433878">
+    <tag k="is_in" v="Denbighshire,Cymru,Wales,UK"/>
+    <tag k="name" v="St Asaph"/>
+    <tag k="name:cy" v="Llanelwy"/>
+    <tag k="name:en" v="St Asaph"/>
+    <tag k="note" v="corrected Welsh spelling and town status."/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="3500"/>
+    <tag k="website" v="http://www.stasaph.co.uk/"/>
+    <tag k="wikipedia" v="St Asaph"/>
+  </node>
+  <node id="29865252" lat="52.3993305" lon="0.2747325"/>
+  <node id="29865256" lat="52.3978445" lon="0.2733349"/>
+  <node id="29865257" lat="52.3990234" lon="0.2733313"/>
+  <node id="29865258" lat="52.3987101" lon="0.2739255"/>
+  <node id="52263292" lat="52.2591035" lon="-7.1135180">
+    <tag k="gns:ADM1" v="27"/>
+    <tag k="gns:CC1" v="EI"/>
+    <tag k="gns:DMS_LAT" v="521530"/>
+    <tag k="gns:DMS_LONG" v="-70643"/>
+    <tag k="gns:DSG" v="PPLA"/>
+    <tag k="gns:FC" v="P"/>
+    <tag k="gns:JOG" v="NN29-12"/>
+    <tag k="gns:LAT" v="52.258333"/>
+    <tag k="gns:LONG" v="-7.111944"/>
+    <tag k="gns:MGRS" v="29UPT2886391451"/>
+    <tag k="gns:N:eng:FULL_NAME" v="Waterford"/>
+    <tag k="gns:N:eng:FULL_NAME_ND" v="Waterford"/>
+    <tag k="gns:N:eng:LC" v="eng"/>
+    <tag k="gns:N:eng:MODIFY_DATE" v="2001-06-26"/>
+    <tag k="gns:N:eng:NT" v="N"/>
+    <tag k="gns:N:eng:SORT_NAME" v="WATERFORD"/>
+    <tag k="gns:N:gle:FULL_NAME" v="Port Láirge"/>
+    <tag k="gns:N:gle:FULL_NAME_ND" v="Port Lairge"/>
+    <tag k="gns:N:gle:LC" v="gle"/>
+    <tag k="gns:N:gle:MODIFY_DATE" v="2001-06-26"/>
+    <tag k="gns:N:gle:NT" v="N"/>
+    <tag k="gns:N:gle:SORT_NAME" v="PORTLAIRGE"/>
+    <tag k="gns:PC" v="3"/>
+    <tag k="gns:POP" v="40300"/>
+    <tag k="gns:RC" v="1"/>
+    <tag k="gns:UFI" v="-1506148"/>
+    <tag k="gns:UNI" v="-2149438"/>
+    <tag k="is_in" v="County Waterford"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="name" v="Waterford"/>
+    <tag k="name:en" v="Waterford"/>
+    <tag k="name:ga" v="Port Láirge"/>
+    <tag k="name:ru" v="Уотерфорд"/>
+    <tag k="name:sr" v="Вотерфорд"/>
+    <tag k="note" v="Experimental import of Irish places and POIs from GNS Dataset"/>
+    <tag k="place" v="city"/>
+    <tag k="place_county" v="Waterford"/>
+    <tag k="population" v="40300"/>
+    <tag k="source" v="gns_ei"/>
+  </node>
+  <node id="267762522" lat="54.9942962" lon="-7.3192079">
+    <tag k="gns:ADM1" v="S6"/>
+    <tag k="gns:CC1" v="UK"/>
+    <tag k="gns:DMS_LAT" v="550000"/>
+    <tag k="gns:DMS_LONG" v="-72000"/>
+    <tag k="gns:DSG" v="PPLA"/>
+    <tag k="gns:FC" v="P"/>
+    <tag k="gns:JOG" v="NN29-03"/>
+    <tag k="gns:LAT" v="55"/>
+    <tag k="gns:LONG" v="-7.333333"/>
+    <tag k="gns:MGRS" v="29UPA0660996062"/>
+    <tag k="gns:N:xx:FULL_NAME" v="Derry"/>
+    <tag k="gns:N:xx:FULL_NAME_ND" v="Derry"/>
+    <tag k="gns:N:xx:MODIFY_DATE" v="2004-10-06"/>
+    <tag k="gns:N:xx:NT" v="N"/>
+    <tag k="gns:N:xx:SORT_NAME" v="DERRY"/>
+    <tag k="gns:RC" v="1"/>
+    <tag k="gns:UFI" v="-2601896"/>
+    <tag k="gns:UNI" v="-3578180"/>
+    <tag k="gns:V:xx:FULL_NAME" v="Londonderry"/>
+    <tag k="gns:V:xx:FULL_NAME_ND" v="Londonderry"/>
+    <tag k="gns:V:xx:MODIFY_DATE" v="2004-10-06"/>
+    <tag k="gns:V:xx:NT" v="V"/>
+    <tag k="gns:V:xx:SORT_NAME" v="LONDONDERRY"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="Northern Ireland"/>
+    <tag k="loc_name" v="Stroke City"/>
+    <tag k="name" v="Londonderry/Derry"/>
+    <tag k="name:ar" v="ديري"/>
+    <tag k="name:en_GB" v="Londonderry"/>
+    <tag k="name:en_IE" v="Derry"/>
+    <tag k="name:ga" v="Doire"/>
+    <tag k="name:la" v="Derae"/>
+    <tag k="name:lt" v="Londonderis"/>
+    <tag k="name:ru" v="Дерри"/>
+    <tag k="name:sco" v="Lunnonderry"/>
+    <tag k="name:sr" v="Дери"/>
+    <tag k="note" v="Import of NI places and POIs from GNS Dataset"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="85016"/>
+    <tag k="source" v="gns_ni and local knowledge"/>
+  </node>
+  <node id="267763062" lat="54.3481977" lon="-6.6540432">
+    <tag k="gns:ADM1" v="Q8"/>
+    <tag k="gns:CC1" v="UK"/>
+    <tag k="gns:DMS_LAT" v="542100"/>
+    <tag k="gns:DMS_LONG" v="-64000"/>
+    <tag k="gns:DSG" v="PPLA"/>
+    <tag k="gns:FC" v="P"/>
+    <tag k="gns:JOG" v="NN29-06"/>
+    <tag k="gns:LAT" v="54.35"/>
+    <tag k="gns:LONG" v="-6.666667"/>
+    <tag k="gns:MGRS" v="29UPA5165024974"/>
+    <tag k="gns:N:xx:FULL_NAME" v="Armagh"/>
+    <tag k="gns:N:xx:FULL_NAME_ND" v="Armagh"/>
+    <tag k="gns:N:xx:MODIFY_DATE" v="2004-10-06"/>
+    <tag k="gns:N:xx:NT" v="N"/>
+    <tag k="gns:N:xx:SORT_NAME" v="ARMAGH"/>
+    <tag k="gns:RC" v="1"/>
+    <tag k="gns:UFI" v="-2588529"/>
+    <tag k="gns:UNI" v="-3561616"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="Northern Ireland"/>
+    <tag k="name" v="Armagh"/>
+    <tag k="name:ga" v="Ard Mhacha"/>
+    <tag k="name:ru" v="Арма"/>
+    <tag k="name:sr" v="Арма"/>
+    <tag k="note" v="Import of NI places and POIs from GNS Dataset"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="14590"/>
+    <tag k="source" v="gns_ni"/>
+  </node>
+  <node id="294001443" lat="53.4791466" lon="-2.2447445">
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Lancashire"/>
+    <tag k="name" v="Manchester"/>
+    <tag k="name:cy" v="Manceinion"/>
+    <tag k="name:eo" v="Manĉestro"/>
+    <tag k="name:gv" v="Manchuin"/>
+    <tag k="name:hi" v="मांचॆस्टर"/>
+    <tag k="name:ja" v="マンチェスター"/>
+    <tag k="name:kn" v="ಮಾಂಚೆಸ್ಟರ್"/>
+    <tag k="name:ru" v="Манчестер"/>
+    <tag k="name:sr" v="Манчестер"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="498800"/>
+    <tag k="source:population" v="Office for National Statistics 2012"/>
+  </node>
+  <node id="314950486" lat="54.8682538" lon="-2.9206370"/>
+  <node id="315391560" lat="54.8957188" lon="-2.8918339"/>
+  <node id="315391561" lat="54.8978514" lon="-2.8929081"/>
+  <node id="315391562" lat="54.8980115" lon="-2.8937852"/>
+  <node id="315391566" lat="54.8961575" lon="-2.8976106"/>
+  <node id="315391567" lat="54.8965728" lon="-2.9021939"/>
+  <node id="320933990" lat="52.2182037" lon="0.1627477"/>
+  <node id="320933991" lat="52.2181760" lon="0.1610150"/>
+  <node id="367841808" lat="54.9016827" lon="-2.9775669"/>
+  <node id="367843584" lat="54.9030645" lon="-2.9172709"/>
+  <node id="379104203" lat="54.8952645" lon="-2.8888908"/>
+  <node id="410204387" lat="54.9047774" lon="-2.9187356"/>
+  <node id="418846712" lat="52.1646235" lon="0.1196052"/>
+  <node id="428339453" lat="52.6612577" lon="-8.6302084">
+    <tag k="gns:ADM1" v="16"/>
+    <tag k="gns:CC1" v="EI"/>
+    <tag k="gns:DMS_LAT" v="523953"/>
+    <tag k="gns:DMS_LONG" v="-83723"/>
+    <tag k="gns:DSG" v="PPLA"/>
+    <tag k="gns:FC" v="P"/>
+    <tag k="gns:JOG" v="NN29-11"/>
+    <tag k="gns:LAT" v="52.664722"/>
+    <tag k="gns:LONG" v="-8.623056"/>
+    <tag k="gns:MGRS" v="29UNU2549235041"/>
+    <tag k="gns:N:eng:FULL_NAME" v="Limerick"/>
+    <tag k="gns:N:eng:FULL_NAME_ND" v="Limerick"/>
+    <tag k="gns:N:eng:LC" v="eng"/>
+    <tag k="gns:N:eng:MODIFY_DATE" v="2001-06-26"/>
+    <tag k="gns:N:eng:NT" v="N"/>
+    <tag k="gns:N:eng:SORT_NAME" v="LIMERICK"/>
+    <tag k="gns:N:gle:FULL_NAME" v="Luimneach"/>
+    <tag k="gns:N:gle:FULL_NAME_ND" v="Luimneach"/>
+    <tag k="gns:N:gle:LC" v="gle"/>
+    <tag k="gns:N:gle:MODIFY_DATE" v="2001-06-26"/>
+    <tag k="gns:N:gle:NT" v="N"/>
+    <tag k="gns:N:gle:SORT_NAME" v="LUIMNEACH"/>
+    <tag k="gns:PC" v="2"/>
+    <tag k="gns:POP" v="52000"/>
+    <tag k="gns:RC" v="1"/>
+    <tag k="gns:UFI" v="-1504189"/>
+    <tag k="gns:UNI" v="-2146958"/>
+    <tag k="is_in" v="County Limerick"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="name" v="Limerick"/>
+    <tag k="name:en" v="Limerick"/>
+    <tag k="name:ga" v="Luimneach"/>
+    <tag k="name:he" v="לימריק"/>
+    <tag k="name:ru" v="Лимерик"/>
+    <tag k="name:sr" v="Лимерик"/>
+    <tag k="note" v="Experimental import of Irish places and POIs from GNS Dataset"/>
+    <tag k="place" v="city"/>
+    <tag k="place_county" v="Limerick"/>
+    <tag k="population" v="52000"/>
+    <tag k="source" v="gns_ei"/>
+  </node>
+  <node id="443780768" lat="54.8764057" lon="-2.9471570"/>
+  <node id="560078031" lat="54.9203645" lon="-2.9543360"/>
+  <node id="582043319" lat="53.2744122" lon="-9.0490632">
+    <tag k="gns:ADM1" v="10"/>
+    <tag k="gns:CC1" v="EI"/>
+    <tag k="gns:DMS_LAT" v="531619"/>
+    <tag k="gns:DMS_LONG" v="-90256"/>
+    <tag k="gns:DSG" v="PPLA"/>
+    <tag k="gns:FC" v="P"/>
+    <tag k="gns:JOG" v="NN29-08"/>
+    <tag k="gns:LAT" v="53.271944"/>
+    <tag k="gns:LONG" v="-9.048889"/>
+    <tag k="gns:MGRS" v="29UMV9674002524"/>
+    <tag k="gns:N:eng:FULL_NAME" v="Galway"/>
+    <tag k="gns:N:eng:FULL_NAME_ND" v="Galway"/>
+    <tag k="gns:N:eng:LC" v="eng"/>
+    <tag k="gns:N:eng:MODIFY_DATE" v="2001-06-26"/>
+    <tag k="gns:N:eng:NT" v="N"/>
+    <tag k="gns:N:eng:SORT_NAME" v="GALWAY"/>
+    <tag k="gns:N:gle:FULL_NAME" v="Gaillimh"/>
+    <tag k="gns:N:gle:FULL_NAME_ND" v="Gaillimh"/>
+    <tag k="gns:N:gle:LC" v="gle"/>
+    <tag k="gns:N:gle:MODIFY_DATE" v="2001-06-26"/>
+    <tag k="gns:N:gle:NT" v="N"/>
+    <tag k="gns:N:gle:SORT_NAME" v="GAILLIMH"/>
+    <tag k="gns:PC" v="2"/>
+    <tag k="gns:POP" v="50800"/>
+    <tag k="gns:RC" v="1"/>
+    <tag k="gns:UFI" v="-1502950"/>
+    <tag k="gns:UNI" v="-2145388"/>
+    <tag k="is_in" v="Galway, County Galway, Ireland"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="Ireland"/>
+    <tag k="is_in:county" v="Galway"/>
+    <tag k="name" v="Galway"/>
+    <tag k="name:en" v="Galway"/>
+    <tag k="name:ga" v="Gaillimh"/>
+    <tag k="name:he" v="גולווי"/>
+    <tag k="name:ru" v="Голуэй"/>
+    <tag k="name:sr" v="Голвеј"/>
+    <tag k="note" v="Experimental import of Irish places and POIs from GNS Dataset"/>
+    <tag k="place" v="city"/>
+    <tag k="place_county" v="Galway"/>
+    <tag k="population" v="50800"/>
+    <tag k="source" v="gns_ei"/>
+  </node>
+  <node id="660854315" lat="51.7769208" lon="-0.3445818"/>
+  <node id="660854316" lat="51.7826664" lon="-0.3287857"/>
+  <node id="660854317" lat="51.7854680" lon="-0.3094858"/>
+  <node id="660854318" lat="51.7850530" lon="-0.2964117"/>
+  <node id="660854319" lat="51.7767519" lon="-0.2860354"/>
+  <node id="660854320" lat="51.7623289" lon="-0.2683957"/>
+  <node id="660854321" lat="51.7406424" lon="-0.2582270"/>
+  <node id="660854322" lat="51.7215500" lon="-0.2650753"/>
+  <node id="660854323" lat="51.7148055" lon="-0.2881107"/>
+  <node id="660854324" lat="51.7112775" lon="-0.3513023"/>
+  <node id="660854325" lat="51.7172958" lon="-0.3740264"/>
+  <node id="660854326" lat="51.7416801" lon="-0.3751678"/>
+  <node id="660854327" lat="51.7619138" lon="-0.3630275"/>
+  <node id="663428001" lat="54.1775283" lon="-6.3375060">
+    <tag k="gns:ADM1" v="S9"/>
+    <tag k="gns:CC1" v="UK"/>
+    <tag k="gns:DMS_LAT" v="541100"/>
+    <tag k="gns:DMS_LONG" v="-62000"/>
+    <tag k="gns:DSG" v="PPLA"/>
+    <tag k="gns:FC" v="P"/>
+    <tag k="gns:JOG" v="NN29-06"/>
+    <tag k="gns:LAT" v="54.183333"/>
+    <tag k="gns:LONG" v="-6.333333"/>
+    <tag k="gns:MGRS" v="29UPA7401007204"/>
+    <tag k="gns:N:xx:FULL_NAME" v="Newry"/>
+    <tag k="gns:N:xx:FULL_NAME_ND" v="Newry"/>
+    <tag k="gns:N:xx:MODIFY_DATE" v="2004-10-06"/>
+    <tag k="gns:N:xx:NT" v="N"/>
+    <tag k="gns:N:xx:SORT_NAME" v="NEWRY"/>
+    <tag k="gns:RC" v="1"/>
+    <tag k="gns:UFI" v="-2604058"/>
+    <tag k="gns:UNI" v="-3580809"/>
+    <tag k="gns:V:xx:FULL_NAME" v="Iubhar Cinn Trágha"/>
+    <tag k="gns:V:xx:FULL_NAME_ND" v="Iubhar Cinn Tragha"/>
+    <tag k="gns:V:xx:MODIFY_DATE" v="2004-10-06"/>
+    <tag k="gns:V:xx:NT" v="V"/>
+    <tag k="gns:V:xx:SORT_NAME" v="IUBHARCINNTRAGHA"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="Northern Ireland"/>
+    <tag k="name" v="Newry"/>
+    <tag k="name:ga" v="Iubhar Cinn Trágha"/>
+    <tag k="name:ru" v="Ньюри"/>
+    <tag k="note" v="Import of NI places and POIs from GNS Dataset"/>
+    <tag k="place" v="city"/>
+    <tag k="source" v="gns_ni"/>
+  </node>
+  <node id="728856967" lat="52.1602947" lon="0.1208188"/>
+  <node id="728856969" lat="52.1629096" lon="0.1206807"/>
+  <node id="728856971" lat="52.1593261" lon="0.1218451"/>
+  <node id="728856972" lat="52.1611058" lon="0.1228121"/>
+  <node id="728856973" lat="52.1629883" lon="0.1209373"/>
+  <node id="728856974" lat="52.1615840" lon="0.1255257"/>
+  <node id="728856975" lat="52.1612511" lon="0.1261769"/>
+  <node id="728856976" lat="52.1626191" lon="0.1255059"/>
+  <node id="728856977" lat="52.1625464" lon="0.1253185"/>
+  <node id="728856978" lat="52.1620501" lon="0.1259993"/>
+  <node id="728856979" lat="52.1617656" lon="0.1255059"/>
+  <node id="728856981" lat="52.1664444" lon="0.1043301"/>
+  <node id="728856982" lat="52.1680846" lon="0.1052182"/>
+  <node id="728856983" lat="52.1679514" lon="0.1060175"/>
+  <node id="728856984" lat="52.1660268" lon="0.1077443"/>
+  <node id="728856985" lat="52.1666623" lon="0.1083561"/>
+  <node id="728856987" lat="52.1692163" lon="0.1067279"/>
+  <node id="728856988" lat="52.1703602" lon="0.1074285"/>
+  <node id="728856989" lat="52.1730411" lon="0.1061458"/>
+  <node id="728856990" lat="52.1714737" lon="0.1080107"/>
+  <node id="728856991" lat="52.1727567" lon="0.1080403"/>
+  <node id="728856992" lat="52.1731137" lon="0.1084054"/>
+  <node id="728856993" lat="52.1730774" lon="0.1095797"/>
+  <node id="728856994" lat="52.1728354" lon="0.1095402"/>
+  <node id="728857054" lat="52.1741546" lon="0.1066293"/>
+  <node id="728857055" lat="52.1746205" lon="0.1084548"/>
+  <node id="728857056" lat="52.1742151" lon="0.1078134"/>
+  <node id="728857057" lat="52.1664626" lon="0.1115236"/>
+  <node id="728857058" lat="52.1661539" lon="0.1103592"/>
+  <node id="728857060" lat="52.1665412" lon="0.1150463"/>
+  <node id="728857061" lat="52.1670012" lon="0.1142273"/>
+  <node id="728857062" lat="52.1644591" lon="0.1193584"/>
+  <node id="728857064" lat="52.1668378" lon="0.1163883"/>
+  <node id="728857065" lat="52.1674854" lon="0.1159048"/>
+  <node id="728857066" lat="52.1711046" lon="0.1101717"/>
+  <node id="728857068" lat="52.1725388" lon="0.1109710"/>
+  <node id="728857069" lat="52.1643139" lon="0.1271834"/>
+  <node id="728857070" lat="52.1633696" lon="0.1272130"/>
+  <node id="728857071" lat="52.1654699" lon="0.1268085"/>
+  <node id="728857072" lat="52.1650099" lon="0.1272229"/>
+  <node id="728857073" lat="52.1666139" lon="0.1266901"/>
+  <node id="728857074" lat="52.1661539" lon="0.1267690"/>
+  <node id="728857075" lat="52.1681451" lon="0.1311403"/>
+  <node id="728857076" lat="52.1749989" lon="0.1099060"/>
+  <node id="728857078" lat="52.1753770" lon="0.1117703"/>
+  <node id="728857079" lat="52.1772572" lon="0.1130500"/>
+  <node id="728857080" lat="52.1771574" lon="0.1118591"/>
+  <node id="728857081" lat="52.1782573" lon="0.1136747"/>
+  <node id="728857082" lat="52.1783173" lon="0.1133934"/>
+  <node id="728857083" lat="52.1826439" lon="0.1174836"/>
+  <node id="728857084" lat="52.1844590" lon="0.1192598"/>
+  <node id="728857085" lat="52.1953202" lon="0.0974645"/>
+  <node id="728857086" lat="52.1946549" lon="0.1006776"/>
+  <node id="728857089" lat="52.1946642" lon="0.1004522"/>
+  <node id="728857091" lat="52.1950210" lon="0.1004028"/>
+  <node id="728857092" lat="52.1954023" lon="0.1009666"/>
+  <node id="728857093" lat="52.1940351" lon="0.1042907"/>
+  <node id="728857094" lat="52.1940896" lon="0.1037874"/>
+  <node id="728857095" lat="52.1953514" lon="0.1040126"/>
+  <node id="728857096" lat="52.1924080" lon="0.1064220"/>
+  <node id="728857097" lat="52.1927795" lon="0.1080590"/>
+  <node id="728857098" lat="52.1930613" lon="0.1063431"/>
+  <node id="728857099" lat="52.1928676" lon="0.1059455"/>
+  <node id="728857100" lat="52.1941385" lon="0.1053817"/>
+  <node id="728857101" lat="52.1984379" lon="0.0960941"/>
+  <node id="728857104" lat="52.1975937" lon="0.0961733"/>
+  <node id="728857105" lat="52.1977286" lon="0.0959962"/>
+  <node id="728857106" lat="52.1962307" lon="0.0973241"/>
+  <node id="728857107" lat="52.1972834" lon="0.0968235"/>
+  <node id="728857109" lat="52.1971891" lon="0.0975271"/>
+  <node id="728857111" lat="52.1973860" lon="0.0985181"/>
+  <node id="728857112" lat="52.1993093" lon="0.0934363"/>
+  <node id="728857113" lat="52.1985458" lon="0.0949820"/>
+  <node id="728857114" lat="52.1993335" lon="0.0949066"/>
+  <node id="728857115" lat="52.1990371" lon="0.0949757"/>
+  <node id="728857116" lat="52.2012990" lon="0.0935054"/>
+  <node id="728857118" lat="52.2026114" lon="0.0939593"/>
+  <node id="728857119" lat="52.2021276" lon="0.0981728"/>
+  <node id="728857120" lat="52.2039237" lon="0.0985872"/>
+  <node id="728857121" lat="52.2039176" lon="0.0978077"/>
+  <node id="728857122" lat="52.2039902" lon="0.0974327"/>
+  <node id="728857123" lat="52.2044861" lon="0.0975610"/>
+  <node id="728857124" lat="52.2052843" lon="0.0982418"/>
+  <node id="728857125" lat="52.2067538" lon="0.0987845"/>
+  <node id="728857126" lat="52.2069231" lon="0.0987648"/>
+  <node id="728857127" lat="52.1960856" lon="0.0995443"/>
+  <node id="728857128" lat="52.1966662" lon="0.0997022"/>
+  <node id="728857130" lat="52.1972287" lon="0.0993865"/>
+  <node id="728857132" lat="52.2020888" lon="0.0985037"/>
+  <node id="728857133" lat="52.2024745" lon="0.0989157"/>
+  <node id="728857134" lat="52.2038754" lon="0.1000358"/>
+  <node id="728857135" lat="52.2034960" lon="0.0995315"/>
+  <node id="728857136" lat="52.2041535" lon="0.0994358"/>
+  <node id="728857138" lat="52.2042200" lon="0.1001561"/>
+  <node id="728857144" lat="52.2064756" lon="0.0990608"/>
+  <node id="728857146" lat="52.1852999" lon="0.1188552"/>
+  <node id="728857147" lat="52.1860319" lon="0.1192203"/>
+  <node id="728857150" lat="52.1851366" lon="0.1196446"/>
+  <node id="728857151" lat="52.1899788" lon="0.1180003"/>
+  <node id="728857152" lat="52.1879497" lon="0.1198716"/>
+  <node id="728857153" lat="52.1932140" lon="0.1111115"/>
+  <node id="728857154" lat="52.1909325" lon="0.1154299"/>
+  <node id="728857155" lat="52.1934585" lon="0.1110379"/>
+  <node id="728857157" lat="52.1937690" lon="0.1133294"/>
+  <node id="728857158" lat="52.1943859" lon="0.1136649"/>
+  <node id="728857159" lat="52.1960432" lon="0.1131123"/>
+  <node id="728857160" lat="52.1954867" lon="0.1152058"/>
+  <node id="728857161" lat="52.1951541" lon="0.1141089"/>
+  <node id="728857162" lat="52.1949001" lon="0.1153423"/>
+  <node id="728857164" lat="52.1955526" lon="0.1147413"/>
+  <node id="728857165" lat="52.1917224" lon="0.1171280"/>
+  <node id="728857166" lat="52.1919648" lon="0.1159018"/>
+  <node id="728857168" lat="52.1925290" lon="0.1172073"/>
+  <node id="728857169" lat="52.1929524" lon="0.1175724"/>
+  <node id="728857170" lat="52.1921500" lon="0.1181477"/>
+  <node id="728857171" lat="52.1934605" lon="0.1161811"/>
+  <node id="728857172" lat="52.1941317" lon="0.1171931"/>
+  <node id="728857173" lat="52.1941434" lon="0.1174599"/>
+  <node id="728857174" lat="52.1938778" lon="0.1185888"/>
+  <node id="728857175" lat="52.1943678" lon="0.1192696"/>
+  <node id="728857177" lat="52.1951541" lon="0.1181250"/>
+  <node id="728857178" lat="52.1947025" lon="0.1181173"/>
+  <node id="728857180" lat="52.1892783" lon="0.1207522"/>
+  <node id="728857181" lat="52.1965271" lon="0.1107144"/>
+  <node id="728857182" lat="52.1962852" lon="0.1121156"/>
+  <node id="728857185" lat="52.1981481" lon="0.1125202"/>
+  <node id="728857186" lat="52.1977791" lon="0.1149772"/>
+  <node id="728857187" lat="52.1964877" lon="0.1192395"/>
+  <node id="728857189" lat="52.1963750" lon="0.1191702"/>
+  <node id="728857190" lat="52.1973380" lon="0.1185608"/>
+  <node id="728857191" lat="52.1972927" lon="0.1194969"/>
+  <node id="728857192" lat="52.1690045" lon="0.1341302"/>
+  <node id="728857193" lat="52.1704812" lon="0.1350676"/>
+  <node id="728857194" lat="52.1699547" lon="0.1352452"/>
+  <node id="728857195" lat="52.1723512" lon="0.1416493"/>
+  <node id="728857197" lat="52.1721116" lon="0.1416523"/>
+  <node id="728857198" lat="52.1725630" lon="0.1479251"/>
+  <node id="728857200" lat="52.1736221" lon="0.1465140"/>
+  <node id="728857201" lat="52.1709956" lon="0.1520300"/>
+  <node id="728857202" lat="52.1718187" lon="0.1508163"/>
+  <node id="728857203" lat="52.1716916" lon="0.1499381"/>
+  <node id="728857204" lat="52.1727264" lon="0.1487934"/>
+  <node id="728857205" lat="52.1735797" lon="0.1540035"/>
+  <node id="728857206" lat="52.1744632" lon="0.1546745"/>
+  <node id="728857207" lat="52.1742998" lon="0.1552567"/>
+  <node id="728857209" lat="52.1753346" lon="0.1558882"/>
+  <node id="728857210" lat="52.1762967" lon="0.1556021"/>
+  <node id="728857211" lat="52.1755161" lon="0.1552468"/>
+  <node id="728857212" lat="52.1760910" lon="0.1584735"/>
+  <node id="728857213" lat="52.1760970" lon="0.1568552"/>
+  <node id="728857214" lat="52.1764238" lon="0.1598648"/>
+  <node id="728857215" lat="52.1779366" lon="0.1612858"/>
+  <node id="728857216" lat="52.1772165" lon="0.1609009"/>
+  <node id="728857218" lat="52.1794614" lon="0.1615621"/>
+  <node id="728857219" lat="52.1791044" lon="0.1616706"/>
+  <node id="728857220" lat="52.1783541" lon="0.1615029"/>
+  <node id="728857221" lat="52.1800180" lon="0.1617397"/>
+  <node id="728857222" lat="52.1796550" lon="0.1641079"/>
+  <node id="728857223" lat="52.1800543" lon="0.1635158"/>
+  <node id="728857224" lat="52.1799394" lon="0.1632494"/>
+  <node id="728857225" lat="52.1803871" lon="0.1625686"/>
+  <node id="728857227" lat="52.1807864" lon="0.1656275"/>
+  <node id="728857228" lat="52.1806170" lon="0.1658347"/>
+  <node id="728857229" lat="52.1808893" lon="0.1661998"/>
+  <node id="728857230" lat="52.1812523" lon="0.1673445"/>
+  <node id="728857231" lat="52.1809982" lon="0.1660617"/>
+  <node id="728857232" lat="52.1819542" lon="0.1688937"/>
+  <node id="728857233" lat="52.1829162" lon="0.1698410"/>
+  <node id="728857235" lat="52.1826197" lon="0.1701173"/>
+  <node id="728857236" lat="52.1830735" lon="0.1702159"/>
+  <node id="728857237" lat="52.1826437" lon="0.1725829"/>
+  <node id="728857238" lat="52.1835333" lon="0.1711237"/>
+  <node id="728857239" lat="52.1838116" lon="0.1714888"/>
+  <node id="728857240" lat="52.1834586" lon="0.1729532"/>
+  <node id="728857241" lat="52.1823981" lon="0.1766743"/>
+  <node id="728857242" lat="52.1814495" lon="0.1775872"/>
+  <node id="728857243" lat="52.1823326" lon="0.1777470"/>
+  <node id="728857244" lat="52.1812401" lon="0.1811881"/>
+  <node id="728857245" lat="52.1828679" lon="0.1767627"/>
+  <node id="728857246" lat="52.1827659" lon="0.1758078"/>
+  <node id="728857247" lat="52.1824757" lon="0.1757158"/>
+  <node id="728857248" lat="52.1830224" lon="0.1811356"/>
+  <node id="728857249" lat="52.1827702" lon="0.1847782"/>
+  <node id="728857250" lat="52.1831642" lon="0.1847903"/>
+  <node id="728857251" lat="52.1839266" lon="0.1848890"/>
+  <node id="728857252" lat="52.1850156" lon="0.1852146"/>
+  <node id="728857254" lat="52.1859412" lon="0.1853627"/>
+  <node id="728857255" lat="52.1866711" lon="0.1855155"/>
+  <node id="728857256" lat="52.1875625" lon="0.1857080"/>
+  <node id="728857257" lat="52.1881372" lon="0.1859350"/>
+  <node id="728857258" lat="52.1886635" lon="0.1864086"/>
+  <node id="728857260" lat="52.1957271" lon="0.1854534"/>
+  <node id="728857261" lat="52.1903576" lon="0.1880677"/>
+  <node id="728857262" lat="52.1892448" lon="0.1868396"/>
+  <node id="728857264" lat="52.1918491" lon="0.1887155"/>
+  <node id="728857265" lat="52.1922689" lon="0.1886758"/>
+  <node id="728857267" lat="52.1951597" lon="0.1865373"/>
+  <node id="728857268" lat="52.1944631" lon="0.1874222"/>
+  <node id="728857269" lat="52.1934267" lon="0.1882393"/>
+  <node id="728857270" lat="52.1967751" lon="0.1844548"/>
+  <node id="728857271" lat="52.1963699" lon="0.1840404"/>
+  <node id="728857272" lat="52.1981239" lon="0.1857475"/>
+  <node id="728857273" lat="52.2004886" lon="0.1863988"/>
+  <node id="728857275" lat="52.1989766" lon="0.1861915"/>
+  <node id="728857276" lat="52.2016558" lon="0.1859350"/>
+  <node id="728857277" lat="52.2038390" lon="0.1849285"/>
+  <node id="728857279" lat="52.2032826" lon="0.1850370"/>
+  <node id="728857281" lat="52.2044558" lon="0.1848002"/>
+  <node id="728857283" lat="52.2063486" lon="0.1854909"/>
+  <node id="728857349" lat="52.2078180" lon="0.0776186"/>
+  <node id="728857350" lat="52.2081566" lon="0.0774114"/>
+  <node id="728857351" lat="52.2088157" lon="0.0777271"/>
+  <node id="728857353" lat="52.2097530" lon="0.0779146"/>
+  <node id="728857354" lat="52.2078543" lon="0.0801052"/>
+  <node id="728857355" lat="52.2115125" lon="0.0781909"/>
+  <node id="728857356" lat="52.2072919" lon="0.0872592"/>
+  <node id="728857357" lat="52.2084832" lon="0.0878513"/>
+  <node id="728857358" lat="52.2142560" lon="0.0792714"/>
+  <node id="728857359" lat="52.2138947" lon="0.0811315"/>
+  <node id="728857360" lat="52.2155633" lon="0.0834405"/>
+  <node id="728857362" lat="52.2164883" lon="0.0845950"/>
+  <node id="728857499" lat="52.2077092" lon="0.0967913"/>
+  <node id="728857500" lat="52.2151885" lon="0.0879499"/>
+  <node id="728857501" lat="52.2165609" lon="0.0897853"/>
+  <node id="728857502" lat="52.2155271" lon="0.0919660"/>
+  <node id="728857503" lat="52.2167060" lon="0.0932488"/>
+  <node id="728857504" lat="52.2179393" lon="0.0927357"/>
+  <node id="728857505" lat="52.2174254" lon="0.0916404"/>
+  <node id="728857506" lat="52.2166092" lon="0.0943244"/>
+  <node id="728857508" lat="52.2157266" lon="0.0957848"/>
+  <node id="728857509" lat="52.2159926" lon="0.0960512"/>
+  <node id="728857510" lat="52.2170264" lon="0.0946007"/>
+  <node id="728857511" lat="52.2155029" lon="0.0968110"/>
+  <node id="728857512" lat="52.2157810" lon="0.0970182"/>
+  <node id="728857513" lat="52.2156480" lon="0.0976202"/>
+  <node id="728857514" lat="52.2169236" lon="0.0987253"/>
+  <node id="728857515" lat="52.2167909" lon="0.0987741"/>
+  <node id="728857516" lat="52.2189066" lon="0.0915128"/>
+  <node id="728857517" lat="52.2191432" lon="0.0907782"/>
+  <node id="728857520" lat="52.2229869" lon="0.0925482"/>
+  <node id="728857521" lat="52.2233617" lon="0.0917687"/>
+  <node id="728857522" lat="52.2218524" lon="0.0929082"/>
+  <node id="728857523" lat="52.2223497" lon="0.0917748"/>
+  <node id="728857525" lat="52.2210991" lon="0.0944996"/>
+  <node id="728857527" lat="52.2226908" lon="0.0937422"/>
+  <node id="728857528" lat="52.2214515" lon="0.0976202"/>
+  <node id="728857529" lat="52.2234222" lon="0.0974623"/>
+  <node id="728857530" lat="52.2224429" lon="0.0988536"/>
+  <node id="728857531" lat="52.2246710" lon="0.0928460"/>
+  <node id="728857533" lat="52.2235612" lon="0.0919759"/>
+  <node id="728857534" lat="52.2252364" lon="0.0933181"/>
+  <node id="728857535" lat="52.2248848" lon="0.0945787"/>
+  <node id="728857536" lat="52.2240145" lon="0.0949165"/>
+  <node id="728857538" lat="52.2245465" lon="0.0956960"/>
+  <node id="728857539" lat="52.2247943" lon="0.0979458"/>
+  <node id="728857540" lat="52.2240145" lon="0.0966334"/>
+  <node id="728857541" lat="52.2250844" lon="0.0975314"/>
+  <node id="728857542" lat="52.2252114" lon="0.0973833"/>
+  <node id="728857544" lat="52.2257251" lon="0.0986859"/>
+  <node id="728857545" lat="52.2270065" lon="0.0979853"/>
+  <node id="728857546" lat="52.2182546" lon="0.1001991"/>
+  <node id="728857547" lat="52.2201639" lon="0.1002943"/>
+  <node id="728857548" lat="52.2229776" lon="0.1039498"/>
+  <node id="728857549" lat="52.2227833" lon="0.1042471"/>
+  <node id="728857551" lat="52.2260213" lon="0.0999292"/>
+  <node id="728857552" lat="52.2272725" lon="0.0989227"/>
+  <node id="728857553" lat="52.2239947" lon="0.1059344"/>
+  <node id="728857554" lat="52.2262210" lon="0.1081855"/>
+  <node id="728857555" lat="52.2260334" lon="0.1088199"/>
+  <node id="728857559" lat="52.2281880" lon="0.1097332"/>
+  <node id="728857560" lat="52.2281250" lon="0.1099777"/>
+  <node id="728857561" lat="52.2304818" lon="0.1079417"/>
+  <node id="728857562" lat="52.2305483" lon="0.1079811"/>
+  <node id="728857563" lat="52.2299244" lon="0.1100057"/>
+  <node id="728857564" lat="52.2308686" lon="0.1108625"/>
+  <node id="728857565" lat="52.2308686" lon="0.1112572"/>
+  <node id="728857566" lat="52.2317450" lon="0.1114150"/>
+  <node id="728857568" lat="52.2327965" lon="0.1120466"/>
+  <node id="728857569" lat="52.2327603" lon="0.1126386"/>
+  <node id="728857570" lat="52.2345612" lon="0.1135760"/>
+  <node id="728857571" lat="52.2348090" lon="0.1140990"/>
+  <node id="728857572" lat="52.2351776" lon="0.1162403"/>
+  <node id="728857573" lat="52.2354495" lon="0.1181349"/>
+  <node id="728857575" lat="52.2360115" lon="0.1240554"/>
+  <node id="728857576" lat="52.2365856" lon="0.1307062"/>
+  <node id="728857577" lat="52.2145597" lon="0.1454977"/>
+  <node id="728857578" lat="52.2150132" lon="0.1444616"/>
+  <node id="728857579" lat="52.2146867" lon="0.1450141"/>
+  <node id="728857580" lat="52.2149291" lon="0.1464483"/>
+  <node id="728857581" lat="52.2148591" lon="0.1467593"/>
+  <node id="728857582" lat="52.2151260" lon="0.1477237"/>
+  <node id="728857583" lat="52.2158414" lon="0.1450931"/>
+  <node id="728857584" lat="52.2153155" lon="0.1448168"/>
+  <node id="728857585" lat="52.2164218" lon="0.1451029"/>
+  <node id="728857586" lat="52.2171473" lon="0.1453496"/>
+  <node id="728857588" lat="52.2177640" lon="0.1465140"/>
+  <node id="728857589" lat="52.2175040" lon="0.1457246"/>
+  <node id="728857590" lat="52.2179574" lon="0.1475698"/>
+  <node id="728857593" lat="52.2163301" lon="0.1521916"/>
+  <node id="728857594" lat="52.2156684" lon="0.1534650"/>
+  <node id="728857595" lat="52.2185317" lon="0.1496124"/>
+  <node id="728857596" lat="52.2182597" lon="0.1488625"/>
+  <node id="728857597" lat="52.2181085" lon="0.1484678"/>
+  <node id="728857598" lat="52.2189065" lon="0.1510235"/>
+  <node id="728857599" lat="52.2187675" lon="0.1502736"/>
+  <node id="728857600" lat="52.2189730" lon="0.1519017"/>
+  <node id="728857601" lat="52.2192874" lon="0.1530167"/>
+  <node id="728857602" lat="52.2167950" lon="0.1542966"/>
+  <node id="728857603" lat="52.2170869" lon="0.1558882"/>
+  <node id="728857604" lat="52.2178425" lon="0.1575558"/>
+  <node id="728857605" lat="52.2178511" lon="0.1664686"/>
+  <node id="728857606" lat="52.2147955" lon="0.1738867"/>
+  <node id="728857607" lat="52.2175482" lon="0.1705084"/>
+  <node id="728857609" lat="52.2171534" lon="0.1717750"/>
+  <node id="728857610" lat="52.2173710" lon="0.1733242"/>
+  <node id="728857611" lat="52.2173287" lon="0.1744294"/>
+  <node id="728857613" lat="52.2172438" lon="0.1749476"/>
+  <node id="728857614" lat="52.2172330" lon="0.1756455"/>
+  <node id="728857615" lat="52.2197831" lon="0.1542009"/>
+  <node id="728857617" lat="52.2203003" lon="0.1563934"/>
+  <node id="728857618" lat="52.2201337" lon="0.1554738"/>
+  <node id="728857619" lat="52.2204002" lon="0.1575856"/>
+  <node id="728857620" lat="52.2204783" lon="0.1581972"/>
+  <node id="728857621" lat="52.2206355" lon="0.1589768"/>
+  <node id="728857623" lat="52.2213730" lon="0.1582564"/>
+  <node id="728857624" lat="52.2181388" lon="0.1598155"/>
+  <node id="728857626" lat="52.2229567" lon="0.1616311"/>
+  <node id="728857627" lat="52.2221951" lon="0.1601905"/>
+  <node id="728857628" lat="52.2218626" lon="0.1635751"/>
+  <node id="728857629" lat="52.2222253" lon="0.1629534"/>
+  <node id="728857630" lat="52.2228237" lon="0.1637921"/>
+  <node id="728857631" lat="52.2246009" lon="0.1630915"/>
+  <node id="728857632" lat="52.2235310" lon="0.1622824"/>
+  <node id="728857633" lat="52.2252235" lon="0.1635060"/>
+  <node id="728857634" lat="52.2269884" lon="0.1646901"/>
+  <node id="728857635" lat="52.2225940" lon="0.1649960"/>
+  <node id="728857636" lat="52.2246795" lon="0.1656078"/>
+  <node id="728857638" lat="52.2236337" lon="0.1659137"/>
+  <node id="728857639" lat="52.2254411" lon="0.1660716"/>
+  <node id="728857640" lat="52.2260334" lon="0.1650059"/>
+  <node id="728857641" lat="52.2257916" lon="0.1648381"/>
+  <node id="728857642" lat="52.2267708" lon="0.1654992"/>
+  <node id="728857643" lat="52.2371597" lon="0.1367451"/>
+  <node id="728857644" lat="52.2376492" lon="0.1436228"/>
+  <node id="728857646" lat="52.2376733" lon="0.1467212"/>
+  <node id="728857647" lat="52.2369542" lon="0.1498295"/>
+  <node id="728857648" lat="52.2367729" lon="0.1511518"/>
+  <node id="728857649" lat="52.2369905" lon="0.1520201"/>
+  <node id="728857650" lat="52.2373349" lon="0.1487540"/>
+  <node id="728857651" lat="52.2366219" lon="0.1547436"/>
+  <node id="728857652" lat="52.2363076" lon="0.1562829"/>
+  <node id="728857653" lat="52.2324218" lon="0.1664070"/>
+  <node id="728857654" lat="52.2333344" lon="0.1668807"/>
+  <node id="728857655" lat="52.2332558" lon="0.1671669"/>
+  <node id="728857656" lat="52.2318598" lon="0.1681339"/>
+  <node id="728858199" lat="52.2109864" lon="0.1778830"/>
+  <node id="728858200" lat="52.2110167" lon="0.1793928"/>
+  <node id="728858202" lat="52.2110953" lon="0.1802217"/>
+  <node id="728858203" lat="52.2121473" lon="0.1802315"/>
+  <node id="728858204" lat="52.2120083" lon="0.1808532"/>
+  <node id="728858206" lat="52.2074854" lon="0.1866356"/>
+  <node id="728858207" lat="52.2118208" lon="0.1846029"/>
+  <node id="728858209" lat="52.2115729" lon="0.1846522"/>
+  <node id="728858210" lat="52.2111557" lon="0.1846226"/>
+  <node id="728858211" lat="52.2138705" lon="0.1782185"/>
+  <node id="728858212" lat="52.2125948" lon="0.1778633"/>
+  <node id="728858213" lat="52.2171409" lon="0.1758666"/>
+  <node id="728858214" lat="52.2146202" lon="0.1822445"/>
+  <node id="728858215" lat="52.2136589" lon="0.1852443"/>
+  <node id="728858216" lat="52.2139189" lon="0.1851949"/>
+  <node id="728858217" lat="52.2085060" lon="0.1880555">
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="728858218" lat="52.2094635" lon="0.1897096"/>
+  <node id="728858219" lat="52.2088471" lon="0.1886690"/>
+  <node id="728858220" lat="52.2098602" lon="0.1903044"/>
+  <node id="728858221" lat="52.2110892" lon="0.1883624"/>
+  <node id="728858222" lat="52.2111497" lon="0.1898327"/>
+  <node id="728858223" lat="52.2104725" lon="0.1909674"/>
+  <node id="728858224" lat="52.2110711" lon="0.1909773"/>
+  <node id="728858225" lat="52.2109086" lon="0.1912194"/>
+  <node id="734725033" lat="54.8719402" lon="-2.9327691"/>
+  <node id="738885245" lat="51.4835299" lon="-3.1836873">
+    <tag k="capital" v="4"/>
+    <tag k="is_in" v="Wales, United Kingdom, UK, Great Britain, Europe"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:historic_county" v="Glamorganshire"/>
+    <tag k="is_in:preserved_county" v="South Glamorgan"/>
+    <tag k="name" v="Cardiff"/>
+    <tag k="name:cy" v="Caerdydd"/>
+    <tag k="name:el" v="Κάρντιφ"/>
+    <tag k="name:en" v="Cardiff"/>
+    <tag k="name:eo" v="Kardifo"/>
+    <tag k="name:fa" v="کاردیف"/>
+    <tag k="name:fr" v="Cardiff"/>
+    <tag k="name:gv" v="Cayr Deeth"/>
+    <tag k="name:he" v="קרדיף"/>
+    <tag k="name:hi" v="कार्डिफ़"/>
+    <tag k="name:is" v="Cardiff"/>
+    <tag k="name:ja" v="カーディフ"/>
+    <tag k="name:lv" v="Kārdifa"/>
+    <tag k="name:ru" v="Кардифф"/>
+    <tag k="name:sr" v="Кардиф"/>
+    <tag k="name:sv" v="Cardiff"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="324800"/>
+    <tag k="source_ref:capital" v="http://comments.gmane.org/gmane.comp.gis.openstreetmap/55712"/>
+    <tag k="wikipedia" v="en:Cardiff"/>
+    <tag k="wikipedia:eo" v="Cardiff"/>
+    <tag k="wikipedia:fr" v="Cardiff"/>
+  </node>
+  <node id="798745750" lat="54.9129536" lon="-2.9544349"/>
+  <node id="798780976" lat="54.9310238" lon="-2.9581412"/>
+  <node id="798780979" lat="54.9320717" lon="-2.9565962"/>
+  <node id="829486654" lat="54.8945736" lon="-2.9892122">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="835855746" lat="54.8749300" lon="-2.9643928"/>
+  <node id="835861397" lat="54.8825344" lon="-2.9793274"/>
+  <node id="835875028" lat="54.9157213" lon="-2.9351284"/>
+  <node id="835875031" lat="54.9136739" lon="-2.9314806"/>
+  <node id="835875033" lat="54.9129585" lon="-2.9317810"/>
+  <node id="835875054" lat="54.9122431" lon="-2.9308369"/>
+  <node id="835875056" lat="54.9118977" lon="-2.9308798"/>
+  <node id="835875059" lat="54.9111330" lon="-2.9292061"/>
+  <node id="835875062" lat="54.9106889" lon="-2.9292490"/>
+  <node id="835875063" lat="54.9105162" lon="-2.9285624"/>
+  <node id="835876021" lat="54.9116264" lon="-2.9163315"/>
+  <node id="835876024" lat="54.9100475" lon="-2.9185631"/>
+  <node id="835877292" lat="54.9162146" lon="-2.9346134"/>
+  <node id="835877296" lat="54.9188785" lon="-2.9385616"/>
+  <node id="835877300" lat="54.9239592" lon="-2.9395916"/>
+  <node id="835877301" lat="54.9239592" lon="-2.9427244"/>
+  <node id="835879208" lat="54.9088139" lon="-2.9543974"/>
+  <node id="835879213" lat="54.9074077" lon="-2.9569294"/>
+  <node id="835879216" lat="54.9056066" lon="-2.9557278"/>
+  <node id="836669335" lat="54.8787798" lon="-2.9375756"/>
+  <node id="836669385" lat="54.8702857" lon="-2.9131568"/>
+  <node id="836669391" lat="54.8677667" lon="-2.9231990"/>
+  <node id="836669393" lat="54.8678902" lon="-2.9242290"/>
+  <node id="836669395" lat="54.8707549" lon="-2.9240573"/>
+  <node id="836669396" lat="54.8710512" lon="-2.9226411"/>
+  <node id="836669398" lat="54.8731749" lon="-2.9245723"/>
+  <node id="836669400" lat="54.8730267" lon="-2.9252160"/>
+  <node id="836669406" lat="54.8739650" lon="-2.9263747"/>
+  <node id="836669409" lat="54.8736440" lon="-2.9281772"/>
+  <node id="836669414" lat="54.8732242" lon="-2.9318250"/>
+  <node id="837955464" lat="52.4031029" lon="0.2777024"/>
+  <node id="837955470" lat="52.4136342" lon="0.2794392"/>
+  <node id="837955492" lat="52.4007822" lon="0.2420983"/>
+  <node id="837955500" lat="52.4094389" lon="0.2612724"/>
+  <node id="837955508" lat="52.3890130" lon="0.2644605"/>
+  <node id="837955519" lat="52.3955578" lon="0.2410389"/>
+  <node id="837955523" lat="52.3917423" lon="0.2602651"/>
+  <node id="837955524" lat="52.4133376" lon="0.2798387"/>
+  <node id="837955536" lat="52.4052750" lon="0.2815928"/>
+  <node id="837955541" lat="52.4141957" lon="0.2694180"/>
+  <node id="837955553" lat="52.4041215" lon="0.2456432"/>
+  <node id="837955570" lat="52.4075585" lon="0.2506530"/>
+  <node id="837955577" lat="52.3953670" lon="0.2728394"/>
+  <node id="837955580" lat="52.3920709" lon="0.2506607"/>
+  <node id="837955583" lat="52.4099051" lon="0.2797866"/>
+  <node id="837955592" lat="52.4030711" lon="0.2762435"/>
+  <node id="837955613" lat="52.4013439" lon="0.2422720"/>
+  <node id="837955619" lat="52.4094601" lon="0.2659965"/>
+  <node id="837955622" lat="52.3878169" lon="0.2632748"/>
+  <node id="837955628" lat="52.3955578" lon="0.2402921"/>
+  <node id="837955631" lat="52.3926644" lon="0.2621061"/>
+  <node id="837955632" lat="52.4127125" lon="0.2795261"/>
+  <node id="837955636" lat="52.4047452" lon="0.2810544"/>
+  <node id="837955638" lat="52.4141215" lon="0.2706511"/>
+  <node id="837955641" lat="52.4048606" lon="0.2456452"/>
+  <node id="837955647" lat="52.3971898" lon="0.2404484"/>
+  <node id="837955651" lat="52.4077720" lon="0.2510143"/>
+  <node id="837955654" lat="52.3927386" lon="0.2688796"/>
+  <node id="837955656" lat="52.3933321" lon="0.2486287"/>
+  <node id="837955657" lat="52.4098415" lon="0.2862474"/>
+  <node id="837955660" lat="52.4016936" lon="0.2767298"/>
+  <node id="837955670" lat="52.4020220" lon="0.2430362"/>
+  <node id="837955673" lat="52.4093754" lon="0.2673165"/>
+  <node id="837955678" lat="52.3863113" lon="0.2620647"/>
+  <node id="837955694" lat="52.3937455" lon="0.2604735"/>
+  <node id="837955695" lat="52.4124159" lon="0.2801513"/>
+  <node id="837955698" lat="52.4039823" lon="0.2808460"/>
+  <node id="837955700" lat="52.4144923" lon="0.2708595"/>
+  <node id="837955704" lat="52.4054866" lon="0.2464961"/>
+  <node id="837955709" lat="52.3980058" lon="0.2411778"/>
+  <node id="837955717" lat="52.4076462" lon="0.2524636"/>
+  <node id="837955721" lat="52.3916151" lon="0.2692096"/>
+  <node id="837955723" lat="52.3927280" lon="0.2455545"/>
+  <node id="837955724" lat="52.4087609" lon="0.2862127"/>
+  <node id="837955728" lat="52.4014498" lon="0.2752536"/>
+  <node id="837955734" lat="52.4120663" lon="0.2692964"/>
+  <node id="837955739" lat="52.4025519" lon="0.2434357"/>
+  <node id="837955745" lat="52.3877464" lon="0.2577468"/>
+  <node id="837955752" lat="52.3947044" lon="0.2570424"/>
+  <node id="837955753" lat="52.4114307" lon="0.2799603"/>
+  <node id="837955756" lat="52.4036221" lon="0.2807939"/>
+  <node id="837955760" lat="52.4144499" lon="0.2718842"/>
+  <node id="837955764" lat="52.4064958" lon="0.2483775"/>
+  <node id="837955768" lat="52.3984085" lon="0.2413515"/>
+  <node id="837955771" lat="52.4084920" lon="0.2543789"/>
+  <node id="837955775" lat="52.3913290" lon="0.2679764"/>
+  <node id="837955780" lat="52.3920729" lon="0.2436676"/>
+  <node id="837955781" lat="52.4084275" lon="0.2861034"/>
+  <node id="837955784" lat="52.4008988" lon="0.2751494"/>
+  <node id="837955791" lat="52.4124477" lon="0.2659965"/>
+  <node id="837955795" lat="52.4028592" lon="0.2441477"/>
+  <node id="837955802" lat="52.3879372" lon="0.2575210"/>
+  <node id="837955809" lat="52.3941270" lon="0.2546032"/>
+  <node id="837955810" lat="52.4115684" lon="0.2791961"/>
+  <node id="837955813" lat="52.4034419" lon="0.2806202"/>
+  <node id="837955818" lat="52.4160389" lon="0.2726310"/>
+  <node id="837955827" lat="52.3998391" lon="0.2416294"/>
+  <node id="837955832" lat="52.4089018" lon="0.2538091"/>
+  <node id="837955836" lat="52.3917431" lon="0.2674509"/>
+  <node id="837955840" lat="52.3934787" lon="0.2418751"/>
+  <node id="837955841" lat="52.4092482" lon="0.2681154"/>
+  <node id="837955846" lat="52.4004855" lon="0.2747325"/>
+  <node id="837955849" lat="52.4068855" lon="0.2835554"/>
+  <node id="837955852" lat="52.4132846" lon="0.2662918"/>
+  <node id="837955856" lat="52.4036751" lon="0.2448946"/>
+  <node id="837955864" lat="52.4067253" lon="0.2490497"/>
+  <node id="837955872" lat="52.3922511" lon="0.2525538"/>
+  <node id="837955873" lat="52.4107420" lon="0.2790919"/>
+  <node id="837955876" lat="52.4033148" lon="0.2799950"/>
+  <node id="837955882" lat="52.4146724" lon="0.2799950"/>
+  <node id="837955892" lat="52.4002842" lon="0.2416120"/>
+  <node id="837955896" lat="52.4090841" lon="0.2545717"/>
+  <node id="837955899" lat="52.3906477" lon="0.2661662"/>
+  <node id="837955904" lat="52.3945085" lon="0.2420462"/>
+  <node id="837955910" lat="52.3910534" lon="0.2613940"/>
+  <node id="837955911" lat="52.4000193" lon="0.2739510"/>
+  <node id="837955913" lat="52.4059320" lon="0.2822181"/>
+  <node id="837955917" lat="52.4130092" lon="0.2689490"/>
+  <node id="837955922" lat="52.4036539" lon="0.2452246"/>
+  <node id="837955928" lat="52.4068992" lon="0.2493552"/>
+  <node id="837955932" lat="52.3971156" lon="0.2750625"/>
+  <node id="837955934" lat="52.3923041" lon="0.2509559"/>
+  <node id="837955935" lat="52.4101488" lon="0.2790050"/>
+  <node id="842600449" lat="54.8963119" lon="-2.9855428"/>
+  <node id="843954648" lat="54.8842277" lon="-2.9840630"/>
+  <node id="850011510" lat="52.1985172" lon="0.0955534"/>
+  <node id="959199214" lat="51.4556994" lon="-2.5952658">
+    <tag k="is_in" v="Bristol,England"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="name" v="Bristol"/>
+    <tag k="name:cy" v="Bryste"/>
+    <tag k="name:en" v="Bristol"/>
+    <tag k="name:eo" v="Bristolo"/>
+    <tag k="name:ja" v="ブリストル"/>
+    <tag k="name:lt" v="Bristolis"/>
+    <tag k="name:ru" v="Бристоль"/>
+    <tag k="name:sr" v="Бристол"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="421300"/>
+    <tag k="wikipedia:en" v="Bristol"/>
+  </node>
+  <node id="1239218708" lat="52.1959373" lon="0.1850268"/>
+  <node id="1239219039" lat="52.1910215" lon="0.1885086"/>
+  <node id="1239219160" lat="52.1900359" lon="0.1877284"/>
+  <node id="1239219195" lat="52.1914427" lon="0.1886529"/>
+  <node id="1239242330" lat="52.2077840" lon="0.1870598"/>
+  <node id="1276292948" lat="54.9106779" lon="-2.9552391"/>
+  <node id="1326762432" lat="50.8222100" lon="-0.1377534">
+    <tag k="is_in" v="East Sussex, UK"/>
+    <tag k="media:commons" v="https://commons.wikimedia.org/wiki/Category:Brighton,_East_Sussex"/>
+    <tag k="name" v="Brighton"/>
+    <tag k="name:he" v="ברייטון"/>
+    <tag k="name:lt" v="Braitonas"/>
+    <tag k="name:ru" v="Брайтон"/>
+    <tag k="name:sr" v="Брајтон"/>
+    <tag k="note" v="Didn't seem to be an existing place marker on the map. Seems odd - maybe I missed it...!?"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="256000"/>
+    <tag k="wikipedia" v="https://en.wikipedia.org/wiki/Brighton"/>
+  </node>
+  <node id="1347256091" lat="54.8997517" lon="-2.9617559"/>
+  <node id="1362703036" lat="54.8771529" lon="-2.9531045"/>
+  <node id="1362703042" lat="54.8755761" lon="-2.9510089"/>
+  <node id="1362703072" lat="54.8754981" lon="-2.9526749"/>
+  <node id="1373779002" lat="52.4082896" lon="0.2537619"/>
+  <node id="1373779022" lat="52.4090515" lon="0.2537867"/>
+  <node id="1373792692" lat="52.4052746" lon="0.2470268"/>
+  <node id="1373792704" lat="52.4057088" lon="0.2475462"/>
+  <node id="1373792713" lat="52.4059685" lon="0.2478717"/>
+  <node id="1373792719" lat="52.4061189" lon="0.2480278"/>
+  <node id="1373792722" lat="52.4061841" lon="0.2481922"/>
+  <node id="1373792725" lat="52.4062262" lon="0.2482661"/>
+  <node id="1373792727" lat="52.4062804" lon="0.2483105"/>
+  <node id="1373792740" lat="52.4065902" lon="0.2484453"/>
+  <node id="1373792742" lat="52.4066684" lon="0.2485883"/>
+  <node id="1373792747" lat="52.4067105" lon="0.2487708"/>
+  <node id="1373792762" lat="52.4069937" lon="0.2494793"/>
+  <node id="1373792776" lat="52.4072480" lon="0.2500478"/>
+  <node id="1373792796" lat="52.4076004" lon="0.2507684"/>
+  <node id="1373792797" lat="52.4077756" lon="0.2508063"/>
+  <node id="1373809300" lat="52.4045688" lon="0.2461786"/>
+  <node id="1404609779" lat="54.9271212" lon="-2.9572439"/>
+  <node id="1404610405" lat="54.9262951" lon="-2.9602909"/>
+  <node id="1415971522" lat="53.3493074" lon="-6.2611750">
+    <tag k="capital" v="yes"/>
+    <tag k="gns:ADM1" v="07"/>
+    <tag k="gns:CC1" v="EI"/>
+    <tag k="gns:DMS_LAT" v="531959"/>
+    <tag k="gns:DMS_LONG" v="-61456"/>
+    <tag k="gns:DSG" v="PPLC"/>
+    <tag k="gns:FC" v="P"/>
+    <tag k="gns:JOG" v="NN29-09"/>
+    <tag k="gns:LAT" v="53.333056"/>
+    <tag k="gns:LONG" v="-6.248889"/>
+    <tag k="gns:MGRS" v="29UPV8318412850"/>
+    <tag k="gns:N:eng:FULL_NAME" v="Dublin"/>
+    <tag k="gns:N:eng:FULL_NAME_ND" v="Dublin"/>
+    <tag k="gns:N:eng:LC" v="eng"/>
+    <tag k="gns:N:eng:MODIFY_DATE" v="2001-06-26"/>
+    <tag k="gns:N:eng:NT" v="N"/>
+    <tag k="gns:N:eng:SORT_NAME" v="DUBLIN"/>
+    <tag k="gns:N:gle:FULL_NAME" v="Baile Átha Cliath"/>
+    <tag k="gns:N:gle:FULL_NAME_ND" v="Baile Atha Cliath"/>
+    <tag k="gns:N:gle:LC" v="gle"/>
+    <tag k="gns:N:gle:MODIFY_DATE" v="2001-06-26"/>
+    <tag k="gns:N:gle:NT" v="N"/>
+    <tag k="gns:N:gle:SORT_NAME" v="BAILEATHACLIATH"/>
+    <tag k="gns:PC" v="1"/>
+    <tag k="gns:POP" v="477700"/>
+    <tag k="gns:RC" v="1"/>
+    <tag k="gns:UFI" v="-1502554"/>
+    <tag k="gns:UNI" v="-2144897"/>
+    <tag k="is_capital" v="country"/>
+    <tag k="is_in" v="County Dublin, Ireland, Europe"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="Ireland"/>
+    <tag k="is_in:county" v="Dublin"/>
+    <tag k="name" v="Dublin"/>
+    <tag k="name:am" v="ደብሊን"/>
+    <tag k="name:an" v="Dublín"/>
+    <tag k="name:ang" v="Difelin"/>
+    <tag k="name:ar" v="دبلن"/>
+    <tag k="name:arc" v="ܕܒܠܢ"/>
+    <tag k="name:arz" v="دوبلين"/>
+    <tag k="name:ast" v="Ciudá de Dublín"/>
+    <tag k="name:bat-smg" v="Doblėns"/>
+    <tag k="name:be" v="Дублін"/>
+    <tag k="name:be-x-old" v="Дублін"/>
+    <tag k="name:bg" v="Дъблин"/>
+    <tag k="name:bn" v="ডাবলিন"/>
+    <tag k="name:bo" v="དུབ་ལིན།"/>
+    <tag k="name:br" v="Dulenn"/>
+    <tag k="name:ca" v="Dublín"/>
+    <tag k="name:ckb" v="دوبلین"/>
+    <tag k="name:cv" v="Дублин"/>
+    <tag k="name:cy" v="Dulyn"/>
+    <tag k="name:de" v="Dublin"/>
+    <tag k="name:el" v="Δουβλίνο"/>
+    <tag k="name:en" v="Dublin"/>
+    <tag k="name:eo" v="Dublino"/>
+    <tag k="name:es" v="Dublín"/>
+    <tag k="name:ext" v="Dublín"/>
+    <tag k="name:fa" v="دوبلین"/>
+    <tag k="name:fr" v="Dublin"/>
+    <tag k="name:ga" v="Baile Átha Cliath"/>
+    <tag k="name:gd" v="Baile Atha Cliath"/>
+    <tag k="name:gl" v="Dublín - Baile Átha Cliath"/>
+    <tag k="name:gv" v="Divlyn"/>
+    <tag k="name:he" v="דבלין"/>
+    <tag k="name:ht" v="Diblin"/>
+    <tag k="name:hy" v="Դուբլին"/>
+    <tag k="name:is" v="Dyflinn"/>
+    <tag k="name:it" v="Dublino"/>
+    <tag k="name:ja" v="ダブリン"/>
+    <tag k="name:ka" v="დუბლინი"/>
+    <tag k="name:kk" v="Дублин"/>
+    <tag k="name:kn" v="ಡಬ್ಲಿನ್"/>
+    <tag k="name:ko" v="더블린"/>
+    <tag k="name:krc" v="Дублин"/>
+    <tag k="name:ku" v="Dublîn"/>
+    <tag k="name:kw" v="Dulyn"/>
+    <tag k="name:la" v="Eblana"/>
+    <tag k="name:lmo" v="Düblin"/>
+    <tag k="name:lt" v="Dublinas"/>
+    <tag k="name:lv" v="Dublina"/>
+    <tag k="name:mk" v="Даблин"/>
+    <tag k="name:ml" v="ഡബ്ലിൻ"/>
+    <tag k="name:mn" v="Дублин"/>
+    <tag k="name:mr" v="डब्लिन"/>
+    <tag k="name:mrj" v="Дублин"/>
+    <tag k="name:my" v="ဒပ်ဗလင်မြို့"/>
+    <tag k="name:nrm" v="Dublîn"/>
+    <tag k="name:os" v="Дублин"/>
+    <tag k="name:pl" v="Dublin"/>
+    <tag k="name:pnb" v="ڈبلن"/>
+    <tag k="name:ps" v="ډبلن"/>
+    <tag k="name:qu" v="Baile Átha Cliath"/>
+    <tag k="name:ru" v="Дублин"/>
+    <tag k="name:sah" v="Дублин"/>
+    <tag k="name:sc" v="Dublinu"/>
+    <tag k="name:scn" v="Dublinu"/>
+    <tag k="name:sk" v="Dublin"/>
+    <tag k="name:sq" v="Dublini"/>
+    <tag k="name:sr" v="Даблин"/>
+    <tag k="name:sv" v="Dublin"/>
+    <tag k="name:ta" v="டப்லின்"/>
+    <tag k="name:tg" v="Дублин"/>
+    <tag k="name:th" v="ดับลิน"/>
+    <tag k="name:tt" v="Дублин"/>
+    <tag k="name:udm" v="Дублин"/>
+    <tag k="name:ug" v="دۇبلىن"/>
+    <tag k="name:uk" v="Дублін"/>
+    <tag k="name:ur" v="ڈبلن"/>
+    <tag k="name:vo" v="Baile Átha Cliath"/>
+    <tag k="name:wuu" v="都柏林"/>
+    <tag k="name:xmf" v="დუბლინი"/>
+    <tag k="name:yi" v="דובלין"/>
+    <tag k="name:zh" v="都柏林"/>
+    <tag k="name:zh-yue" v="都柏林"/>
+    <tag k="note" v="Experimental import of Irish places and POIs from GNS Dataset"/>
+    <tag k="place" v="city"/>
+    <tag k="place_county" v="Dublin"/>
+    <tag k="population" v="527612"/>
+    <tag k="source" v="gns_ei"/>
+    <tag k="website" v="http://www.dublincity.ie/"/>
+    <tag k="wikipedia" v="de:Dublin"/>
+    <tag k="wikipedia:en" v="Dublin"/>
+    <tag k="wikipedia:fr" v="Dublin"/>
+  </node>
+  <node id="1418701024" lat="54.5969467" lon="-5.9301554">
+    <tag k="capital" v="4"/>
+    <tag k="gns:ADM1" v="R3"/>
+    <tag k="gns:CC1" v="UK"/>
+    <tag k="gns:DMS_LAT" v="543500"/>
+    <tag k="gns:DMS_LONG" v="-55600"/>
+    <tag k="gns:DSG" v="PPLA"/>
+    <tag k="gns:FC" v="P"/>
+    <tag k="gns:JOG" v="NN30-04"/>
+    <tag k="gns:LAT" v="54.583333"/>
+    <tag k="gns:LONG" v="-5.933333"/>
+    <tag k="gns:MGRS" v="30UUF1044752383"/>
+    <tag k="gns:N:xx:FULL_NAME" v="Belfast"/>
+    <tag k="gns:N:xx:FULL_NAME_ND" v="Belfast"/>
+    <tag k="gns:N:xx:MODIFY_DATE" v="2004-10-06"/>
+    <tag k="gns:N:xx:NT" v="N"/>
+    <tag k="gns:N:xx:SORT_NAME" v="BELFAST"/>
+    <tag k="gns:RC" v="1"/>
+    <tag k="gns:UFI" v="-2589607"/>
+    <tag k="gns:UNI" v="-3562978"/>
+    <tag k="gns:V:xx:FULL_NAME" v="Béal Feirste"/>
+    <tag k="gns:V:xx:FULL_NAME_ND" v="Beal Feirste"/>
+    <tag k="gns:V:xx:MODIFY_DATE" v="2004-10-06"/>
+    <tag k="gns:V:xx:NT" v="V"/>
+    <tag k="gns:V:xx:SORT_NAME" v="BEALFEIRSTE"/>
+    <tag k="is_in" v="Northern Ireland, United Kingdom, Europe"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="Northern Ireland"/>
+    <tag k="name" v="Belfast"/>
+    <tag k="name:cy" v="Belffast"/>
+    <tag k="name:el" v="Μπέλφαστ"/>
+    <tag k="name:eo" v="Belfasto"/>
+    <tag k="name:ga" v="Béal Feirste"/>
+    <tag k="name:gv" v="Beeal Feirshtey"/>
+    <tag k="name:he" v="בלפסט"/>
+    <tag k="name:is" v="Belfast"/>
+    <tag k="name:ja" v="ベルファスト"/>
+    <tag k="name:lt" v="Belfastas"/>
+    <tag k="name:ru" v="Белфаст"/>
+    <tag k="name:sk" v="Belfast"/>
+    <tag k="name:sr" v="Белфаст"/>
+    <tag k="name:sv" v="Belfast"/>
+    <tag k="note" v="Import of NI places and POIs from GNS Dataset"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="268323"/>
+    <tag k="source" v="gns_ni"/>
+    <tag k="source:population" v="http://www.belfastcity.gov.uk/factsandfigures/demographics.asp"/>
+    <tag k="source_ref:capital" v="http://comments.gmane.org/gmane.comp.gis.openstreetmap/55712"/>
+    <tag k="wikipedia" v="en:Belfast"/>
+    <tag k="wikipedia:fr" v="Belfast"/>
+  </node>
+  <node id="1422314245" lat="51.8979282" lon="-8.4705806">
+    <tag k="alt_name" v="Corcaigh"/>
+    <tag k="gns:ADM1" v="04"/>
+    <tag k="gns:CC1" v="EI"/>
+    <tag k="gns:DMS_LAT" v="515355"/>
+    <tag k="gns:DMS_LONG" v="-82945"/>
+    <tag k="gns:DSG" v="PPLA"/>
+    <tag k="gns:FC" v="P"/>
+    <tag k="gns:JOG" v="NM29-03"/>
+    <tag k="gns:LAT" v="51.898611"/>
+    <tag k="gns:LONG" v="-8.495833"/>
+    <tag k="gns:MGRS" v="29UNT3468949882"/>
+    <tag k="gns:N:eng:FULL_NAME" v="Cork"/>
+    <tag k="gns:N:eng:FULL_NAME_ND" v="Cork"/>
+    <tag k="gns:N:eng:LC" v="eng"/>
+    <tag k="gns:N:eng:MODIFY_DATE" v="2001-06-26"/>
+    <tag k="gns:N:eng:NT" v="N"/>
+    <tag k="gns:N:eng:SORT_NAME" v="CORK"/>
+    <tag k="gns:N:gle:FULL_NAME" v="Corcaigh"/>
+    <tag k="gns:N:gle:FULL_NAME_ND" v="Corcaigh"/>
+    <tag k="gns:N:gle:LC" v="gle"/>
+    <tag k="gns:N:gle:MODIFY_DATE" v="2001-06-26"/>
+    <tag k="gns:N:gle:NT" v="N"/>
+    <tag k="gns:N:gle:SORT_NAME" v="CORCAIGH"/>
+    <tag k="gns:PC" v="1"/>
+    <tag k="gns:POP" v="127000"/>
+    <tag k="gns:RC" v="1"/>
+    <tag k="gns:UFI" v="-1501986"/>
+    <tag k="gns:UNI" v="-2144177"/>
+    <tag k="is_in" v="County Cork"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="name" v="Cork"/>
+    <tag k="name:ar" v="كورك"/>
+    <tag k="name:cy" v="Corc"/>
+    <tag k="name:en" v="Cork"/>
+    <tag k="name:ga" v="Corcaigh"/>
+    <tag k="name:ru" v="Корк"/>
+    <tag k="name:sr" v="Корк"/>
+    <tag k="note" v="Experimental import of Irish places and POIs from GNS Dataset"/>
+    <tag k="place" v="city"/>
+    <tag k="place_county" v="Cork"/>
+    <tag k="population" v="127000"/>
+    <tag k="source" v="gns_ei"/>
+    <tag k="wikipedia:en" v="Cork_(city)"/>
+  </node>
+  <node id="1424948162" lat="52.1913175" lon="0.1156893"/>
+  <node id="1424948166" lat="52.1905607" lon="0.1159108"/>
+  <node id="1424948172" lat="52.1916984" lon="0.1165684"/>
+  <node id="1424948173" lat="52.1916573" lon="0.1169073"/>
+  <node id="1424948177" lat="52.1918130" lon="0.1156940"/>
+  <node id="1424948180" lat="52.1916536" lon="0.1159789"/>
+  <node id="1424948181" lat="52.1917182" lon="0.1178305"/>
+  <node id="1424948182" lat="52.1898869" lon="0.1176412"/>
+  <node id="1424948183" lat="52.1902724" lon="0.1159607"/>
+  <node id="1424948184" lat="52.1919164" lon="0.1172962"/>
+  <node id="1431894450" lat="54.8785263" lon="-2.9470053"/>
+  <node id="1442998137" lat="52.2208810" lon="0.1587370"/>
+  <node id="1442998240" lat="52.2209467" lon="0.1592640"/>
+  <node id="1442998244" lat="52.2207060" lon="0.1593659"/>
+  <node id="1460517034" lat="54.5110962" lon="-6.0437964">
+    <tag k="gns:ADM1" v="S5"/>
+    <tag k="gns:CC1" v="UK"/>
+    <tag k="gns:DMS_LAT" v="543100"/>
+    <tag k="gns:DMS_LONG" v="-60400"/>
+    <tag k="gns:DSG" v="PPLA"/>
+    <tag k="gns:FC" v="P"/>
+    <tag k="gns:JOG" v="NN29-06"/>
+    <tag k="gns:LAT" v="54.516667"/>
+    <tag k="gns:LONG" v="-6.066667"/>
+    <tag k="gns:MGRS" v="29UPA8986344968"/>
+    <tag k="gns:N:xx:FULL_NAME" v="Lisburn"/>
+    <tag k="gns:N:xx:FULL_NAME_ND" v="Lisburn"/>
+    <tag k="gns:N:xx:MODIFY_DATE" v="2004-10-06"/>
+    <tag k="gns:N:xx:NT" v="N"/>
+    <tag k="gns:N:xx:SORT_NAME" v="LISBURN"/>
+    <tag k="gns:RC" v="1"/>
+    <tag k="gns:UFI" v="-2601220"/>
+    <tag k="gns:UNI" v="-3577329"/>
+    <tag k="gns:V:xx:FULL_NAME" v="Lios na gCearrbhach"/>
+    <tag k="gns:V:xx:FULL_NAME_ND" v="Lios na gCearrbhach"/>
+    <tag k="gns:V:xx:MODIFY_DATE" v="2004-10-06"/>
+    <tag k="gns:V:xx:NT" v="V"/>
+    <tag k="gns:V:xx:SORT_NAME" v="LIOSNAGCEARRBHACH"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="Northern Ireland"/>
+    <tag k="name" v="Lisburn"/>
+    <tag k="name:ga" v="Lios na gCearrbhach"/>
+    <tag k="name:ru" v="Лисберн"/>
+    <tag k="note" v="Import of NI places and POIs from GNS Dataset"/>
+    <tag k="place" v="city"/>
+    <tag k="source" v="gns_ni"/>
+  </node>
+  <node id="1494525222" lat="52.1971540" lon="0.1194394"/>
+  <node id="1494525232" lat="52.1972918" lon="0.1190949"/>
+  <node id="1497870561" lat="52.2182150" lon="0.1619108"/>
+  <node id="1514381500" lat="52.1947762" lon="0.1179809"/>
+  <node id="1514381503" lat="52.1948562" lon="0.1179530"/>
+  <node id="1514381513" lat="52.1949727" lon="0.1179746"/>
+  <node id="1514381594" lat="52.1959479" lon="0.1189012"/>
+  <node id="1586199140" lat="51.0736612" lon="-1.7951176">
+    <tag k="is_in" v="Wiltshire, England, UK"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:county" v="Wiltshire"/>
+    <tag k="name" v="Salisbury"/>
+    <tag k="name:cy" v="Caersallog"/>
+    <tag k="name:ru" v="Солсбери"/>
+    <tag k="name:sr" v="Солисбери"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="45000"/>
+    <tag k="source" v="NPE tracing"/>
+  </node>
+  <node id="1593040792" lat="52.3998376" lon="0.2630951">
+    <tag k="is_in:county" v="Cambridgeshire"/>
+    <tag k="name" v="Ely"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="15102"/>
+  </node>
+  <node id="1593157390" lat="52.3935902" lon="0.2421756"/>
+  <node id="1593157394" lat="52.3936770" lon="0.2424046"/>
+  <node id="1610961669" lat="51.0612766" lon="-1.3131692">
+    <tag k="is_in" v="Hampshire; England; UK; United Kingdom"/>
+    <tag k="name" v="Winchester"/>
+    <tag k="name:cy" v="Caerwynt"/>
+    <tag k="name:ru" v="Винчестер"/>
+    <tag k="name:sr" v="Винчестер"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="37501"/>
+  </node>
+  <node id="1644319776" lat="52.2194222" lon="0.0935001"/>
+  <node id="1644319812" lat="52.2196993" lon="0.0923995"/>
+  <node id="1644319823" lat="52.2197821" lon="0.0938917"/>
+  <node id="1644319841" lat="52.2199020" lon="0.0934461"/>
+  <node id="1644319910" lat="52.2200965" lon="0.0917378"/>
+  <node id="1644319938" lat="52.2203074" lon="0.0913529"/>
+  <node id="1647071029" lat="52.3980068" lon="0.2729203"/>
+  <node id="1647071035" lat="52.3981503" lon="0.2730852"/>
+  <node id="1647071042" lat="52.3982466" lon="0.2722219"/>
+  <node id="1647071049" lat="52.3983901" lon="0.2724325"/>
+  <node id="1647071053" lat="52.3988370" lon="0.2736848"/>
+  <node id="1647071055" lat="52.3988505" lon="0.2712428"/>
+  <node id="1647071064" lat="52.3988524" lon="0.2730993"/>
+  <node id="1647071066" lat="52.3993703" lon="0.2721067"/>
+  <node id="1708299078" lat="54.8650793" lon="-2.8903574"/>
+  <node id="1708299083" lat="54.8653325" lon="-2.8908724"/>
+  <node id="1708299086" lat="54.8666600" lon="-2.8877503"/>
+  <node id="1708299091" lat="54.8656474" lon="-2.8907008"/>
+  <node id="1708299095" lat="54.8649744" lon="-2.8910763"/>
+  <node id="1708299104" lat="54.8657215" lon="-2.8912586"/>
+  <node id="1708878427" lat="54.4437809" lon="-6.3165287"/>
+  <node id="1708878442" lat="54.4442126" lon="-6.3101856"/>
+  <node id="1708878444" lat="54.4448404" lon="-6.3233443"/>
+  <node id="1708878448" lat="54.4453529" lon="-6.3455310"/>
+  <node id="1708878450" lat="54.4463153" lon="-6.3468480"/>
+  <node id="1708878453" lat="54.4463315" lon="-6.3077563"/>
+  <node id="1708878457" lat="54.4469985" lon="-6.3406868"/>
+  <node id="1708878461" lat="54.4474693" lon="-6.3298224"/>
+  <node id="1708878464" lat="54.4476263" lon="-6.3332639"/>
+  <node id="1708878466" lat="54.4478455" lon="-6.3484001"/>
+  <node id="1708878469" lat="54.4480971" lon="-6.3377177"/>
+  <node id="1708878483" lat="54.4486204" lon="-6.3491424"/>
+  <node id="1708878489" lat="54.4489539" lon="-6.3487881"/>
+  <node id="1708878492" lat="54.4498858" lon="-6.3496316"/>
+  <node id="1708878496" lat="54.4500981" lon="-6.3064741"/>
+  <node id="1708878499" lat="54.4509549" lon="-6.3516560"/>
+  <node id="1708878501" lat="54.4519945" lon="-6.3523646"/>
+  <node id="1708878503" lat="54.4525698" lon="-6.3076888"/>
+  <node id="1708878505" lat="54.4531911" lon="-6.3548107"/>
+  <node id="1708878506" lat="54.4544563" lon="-6.3549963"/>
+  <node id="1708878509" lat="54.4555905" lon="-6.3082286"/>
+  <node id="1708878523" lat="54.4557607" lon="-6.3573581"/>
+  <node id="1708878526" lat="54.4568100" lon="-6.3593488"/>
+  <node id="1708878531" lat="54.4575519" lon="-6.3081611"/>
+  <node id="1708878536" lat="54.4579868" lon="-6.3611371"/>
+  <node id="1708878540" lat="54.4583889" lon="-6.3569533"/>
+  <node id="1708878544" lat="54.4591602" lon="-6.3084985"/>
+  <node id="1708878547" lat="54.4598893" lon="-6.3514536"/>
+  <node id="1708878550" lat="54.4601800" lon="-6.3139645"/>
+  <node id="1708878552" lat="54.4611998" lon="-6.3118051"/>
+  <node id="1708878554" lat="54.4616151" lon="-6.3713773"/>
+  <node id="1708878573" lat="54.4617916" lon="-6.3552325"/>
+  <node id="1708878576" lat="54.4623407" lon="-6.3656751"/>
+  <node id="1708878580" lat="54.4627687" lon="-6.3127498"/>
+  <node id="1708878584" lat="54.4631217" lon="-6.3111303"/>
+  <node id="1708878589" lat="54.4638900" lon="-6.3576787"/>
+  <node id="1708878593" lat="54.4642591" lon="-6.3101181"/>
+  <node id="1708878598" lat="54.4646744" lon="-6.3728956"/>
+  <node id="1708878602" lat="54.4655142" lon="-6.3091733"/>
+  <node id="1708878605" lat="54.4673182" lon="-6.3114002"/>
+  <node id="1708878609" lat="54.4673903" lon="-6.3729462"/>
+  <node id="1708878624" lat="54.4684555" lon="-6.3127498"/>
+  <node id="1708878626" lat="54.4690080" lon="-6.3721027"/>
+  <node id="1708878629" lat="54.4709511" lon="-6.3140462"/>
+  <node id="1708878632" lat="54.4734413" lon="-6.3150731"/>
+  <node id="1708878633" lat="54.4721157" lon="-6.3691841"/>
+  <node id="1708878636" lat="54.4753686" lon="-6.3192820"/>
+  <node id="1708878639" lat="54.4746120" lon="-6.3668018"/>
+  <node id="1708878641" lat="54.4747689" lon="-6.3471650"/>
+  <node id="1708878645" lat="54.4750826" lon="-6.3451405"/>
+  <node id="1708878648" lat="54.4760597" lon="-6.3425744"/>
+  <node id="1708878666" lat="54.4778893" lon="-6.3238798"/>
+  <node id="1708878669" lat="54.4770038" lon="-6.3535756"/>
+  <node id="1708878673" lat="54.4773039" lon="-6.3400182"/>
+  <node id="1708878677" lat="54.4783775" lon="-6.3270096"/>
+  <node id="1708878680" lat="54.4789503" lon="-6.3377976"/>
+  <node id="1708878684" lat="54.4797323" lon="-6.3301732"/>
+  <node id="1708878689" lat="54.4800394" lon="-6.3357693"/>
+  <node id="1708878691" lat="54.4791994" lon="-6.3550602"/>
+  <node id="1708878693" lat="54.4792778" lon="-6.3686238"/>
+  <node id="1708878695" lat="54.4811597" lon="-6.3553301"/>
+  <node id="1708878708" lat="54.4815909" lon="-6.3617408"/>
+  <node id="1708878712" lat="54.4821398" lon="-6.3558700"/>
+  <node id="1708878715" lat="54.4825710" lon="-6.3571521"/>
+  <node id="1708886644" lat="54.4252834" lon="-6.2980424"/>
+  <node id="1708886646" lat="54.4252906" lon="-6.2969414"/>
+  <node id="1708886648" lat="54.4254071" lon="-6.2993435"/>
+  <node id="1708886649" lat="54.4256109" lon="-6.2962533"/>
+  <node id="1708886677" lat="54.4258220" lon="-6.2961157"/>
+  <node id="1708886682" lat="54.4258584" lon="-6.3012076"/>
+  <node id="1708886687" lat="54.4262150" lon="-6.2958404"/>
+  <node id="1708886691" lat="54.4267609" lon="-6.3018957"/>
+  <node id="1708886697" lat="54.4272339" lon="-6.2923374"/>
+  <node id="1708886699" lat="54.4274523" lon="-6.3017956"/>
+  <node id="1708886701" lat="54.4280491" lon="-6.2930380"/>
+  <node id="1708886702" lat="54.4280782" lon="-6.3011200"/>
+  <node id="1708886705" lat="54.4282747" lon="-6.3007572"/>
+  <node id="1708886708" lat="54.4285440" lon="-6.3015579"/>
+  <node id="1708886712" lat="54.4290170" lon="-6.2983426"/>
+  <node id="1708886717" lat="54.4290971" lon="-6.3013452"/>
+  <node id="1708886720" lat="54.4291480" lon="-6.2991808"/>
+  <node id="1708886732" lat="54.4292499" lon="-6.2982175"/>
+  <node id="1708886738" lat="54.4293154" lon="-6.3003819"/>
+  <node id="1708886741" lat="54.4295410" lon="-6.2983176"/>
+  <node id="1708886747" lat="54.4296211" lon="-6.2898352"/>
+  <node id="1708886753" lat="54.4299486" lon="-6.2985428"/>
+  <node id="1708886756" lat="54.4303343" lon="-6.2983051"/>
+  <node id="1708886761" lat="54.4304507" lon="-6.2978046"/>
+  <node id="1708886765" lat="54.4306399" lon="-6.2879836"/>
+  <node id="1708886767" lat="54.4307272" lon="-6.2864823"/>
+  <node id="1708886769" lat="54.4311202" lon="-6.2986804"/>
+  <node id="1708886771" lat="54.4315423" lon="-6.2858317"/>
+  <node id="1708886773" lat="54.4316224" lon="-6.3039850"/>
+  <node id="1708886775" lat="54.4317679" lon="-6.3035346"/>
+  <node id="1708886788" lat="54.4317897" lon="-6.3047232"/>
+  <node id="1708886789" lat="54.4320299" lon="-6.3027590"/>
+  <node id="1708886794" lat="54.4322336" lon="-6.3051736"/>
+  <node id="1708886797" lat="54.4322700" lon="-6.2876333"/>
+  <node id="1708886802" lat="54.4323355" lon="-6.2993810"/>
+  <node id="1708886806" lat="54.4323501" lon="-6.3019958"/>
+  <node id="1708886809" lat="54.4325247" lon="-6.3054238"/>
+  <node id="1708886813" lat="54.4327358" lon="-6.3009824"/>
+  <node id="1708886817" lat="54.4328376" lon="-6.3004069"/>
+  <node id="1708886822" lat="54.4330414" lon="-6.3055114"/>
+  <node id="1708886825" lat="54.4330851" lon="-6.2888343"/>
+  <node id="1708886830" lat="54.4333252" lon="-6.3050485"/>
+  <node id="1708886847" lat="54.4336381" lon="-6.2887342"/>
+  <node id="1708886849" lat="54.4337545" lon="-6.3050985"/>
+  <node id="1708886850" lat="54.4338419" lon="-6.2861320"/>
+  <node id="1708886856" lat="54.4339365" lon="-6.3050985"/>
+  <node id="1708886859" lat="54.4339583" lon="-6.2875832"/>
+  <node id="1708886861" lat="54.4341111" lon="-6.3054363"/>
+  <node id="1708886865" lat="54.4342203" lon="-6.2843804"/>
+  <node id="1708886868" lat="54.4342203" lon="-6.3060493"/>
+  <node id="1708886872" lat="54.4345404" lon="-6.3058116"/>
+  <node id="1708886875" lat="54.4346132" lon="-6.3034471"/>
+  <node id="1708886876" lat="54.4347733" lon="-6.3043478"/>
+  <node id="1708886879" lat="54.4348024" lon="-6.2874456"/>
+  <node id="1708886882" lat="54.4348170" lon="-6.2888719"/>
+  <node id="1708886899" lat="54.4348897" lon="-6.2851811"/>
+  <node id="1708886901" lat="54.4349843" lon="-6.2863822"/>
+  <node id="1708886902" lat="54.4350134" lon="-6.3038599"/>
+  <node id="1708886905" lat="54.4351007" lon="-6.2898727"/>
+  <node id="1708886906" lat="54.4352390" lon="-6.3027339"/>
+  <node id="1708886908" lat="54.4354136" lon="-6.2904482"/>
+  <node id="1708886909" lat="54.4355446" lon="-6.3030842"/>
+  <node id="1708886910" lat="54.4357629" lon="-6.2908110"/>
+  <node id="1708886911" lat="54.4360030" lon="-6.3036472"/>
+  <node id="1708886912" lat="54.4362577" lon="-6.3038975"/>
+  <node id="1708886913" lat="54.4364105" lon="-6.3043353"/>
+  <node id="1708886914" lat="54.4364324" lon="-6.2909862"/>
+  <node id="1708886915" lat="54.4365197" lon="-6.3061995"/>
+  <node id="1708886923" lat="54.4365633" lon="-6.3051110"/>
+  <node id="1708886926" lat="54.4365924" lon="-6.3069626"/>
+  <node id="1708886928" lat="54.4367452" lon="-6.3056865"/>
+  <node id="1708886930" lat="54.4368689" lon="-6.2909987"/>
+  <node id="1708886933" lat="54.4371818" lon="-6.3009449"/>
+  <node id="1708886935" lat="54.4372546" lon="-6.2912865"/>
+  <node id="1708886938" lat="54.4373055" lon="-6.3064997"/>
+  <node id="1708886940" lat="54.4376402" lon="-6.2951023"/>
+  <node id="1708886941" lat="54.4378294" lon="-6.2948020"/>
+  <node id="1708886943" lat="54.4378731" lon="-6.2928003"/>
+  <node id="1708886945" lat="54.4378949" lon="-6.2955777"/>
+  <node id="1708886947" lat="54.4379458" lon="-6.3024087"/>
+  <node id="1708886949" lat="54.4379531" lon="-6.2937261"/>
+  <node id="1708886957" lat="54.4379968" lon="-6.3053487"/>
+  <node id="1708886958" lat="54.4380986" lon="-6.3001067"/>
+  <node id="1708886959" lat="54.4381350" lon="-6.2962283"/>
+  <node id="1708886960" lat="54.4383824" lon="-6.2998314"/>
+  <node id="1708886965" lat="54.4385570" lon="-6.3045355"/>
+  <node id="1708886969" lat="54.4386225" lon="-6.3018206"/>
+  <node id="1708886973" lat="54.4386953" lon="-6.2995562"/>
+  <node id="1708886977" lat="54.4388844" lon="-6.2955527"/>
+  <node id="1708886980" lat="54.4390081" lon="-6.3039850"/>
+  <node id="1708886982" lat="54.4390518" lon="-6.2993185"/>
+  <node id="1708886986" lat="54.4392628" lon="-6.2959155"/>
+  <node id="1708886989" lat="54.4393719" lon="-6.2989682"/>
+  <node id="1708886991" lat="54.4395393" lon="-6.2986804"/>
+  <node id="1708887003" lat="54.4395684" lon="-6.2966036"/>
+  <node id="1708887007" lat="54.4396993" lon="-6.2985053"/>
+  <node id="1708887011" lat="54.4398376" lon="-6.2983927"/>
+  <node id="1708887014" lat="54.4398376" lon="-6.3010575"/>
+  <node id="1708887016" lat="54.4398885" lon="-6.2973417"/>
+  <node id="1708887017" lat="54.4400195" lon="-6.2977796"/>
+  <node id="1708887020" lat="54.4402814" lon="-6.3032094"/>
+  <node id="1708887023" lat="54.4407252" lon="-6.3004945"/>
+  <node id="1708887026" lat="54.4412272" lon="-6.2997438"/>
+  <node id="1708887030" lat="54.4417074" lon="-6.2993435"/>
+  <node id="1708887035" lat="54.4418020" lon="-6.3006822"/>
+  <node id="1744431176" lat="54.4802891" lon="-6.3327631"/>
+  <node id="1752763089" lat="52.1937923" lon="0.1055726"/>
+  <node id="1752763110" lat="52.1938318" lon="0.1057318"/>
+  <node id="1806134530" lat="52.2177118" lon="0.1674923"/>
+  <node id="1806134609" lat="52.2176827" lon="0.1685764"/>
+  <node id="1828857101" lat="52.1770781" lon="0.1123240"/>
+  <node id="1828857220" lat="52.1775891" lon="0.1133692"/>
+  <node id="1828857294" lat="52.1779846" lon="0.1127309"/>
+  <node id="1828857307" lat="52.1772539" lon="0.1125992"/>
+  <node id="1828857347" lat="52.1778165" lon="0.1125672"/>
+  <node id="1828857557" lat="52.1779124" lon="0.1131681"/>
+  <node id="1828877339" lat="52.1775723" lon="0.1133531"/>
+  <node id="1846011152" lat="52.1954504" lon="0.1860409"/>
+  <node id="1846011173" lat="52.1941377" lon="0.1877243"/>
+  <node id="1846011183" lat="52.1948198" lon="0.1870264"/>
+  <node id="1846035322" lat="52.1926438" lon="0.1885897"/>
+  <node id="1846035326" lat="52.1894752" lon="0.1870744"/>
+  <node id="1846035327" lat="52.1906669" lon="0.1883136"/>
+  <node id="1846035328" lat="52.1950768" lon="0.1866566">
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="1846035331" lat="52.1930236" lon="0.1884395">
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="1846035332" lat="52.1894544" lon="0.1871292"/>
+  <node id="1865703315" lat="52.1962104" lon="0.0976341"/>
+  <node id="1891714865" lat="54.5267403" lon="-5.9788289"/>
+  <node id="1891714870" lat="54.5344216" lon="-6.0160201"/>
+  <node id="1891714874" lat="54.5373474" lon="-5.9573967"/>
+  <node id="1891714878" lat="54.5410044" lon="-5.9183145"/>
+  <node id="1891714881" lat="54.5424671" lon="-6.0349308"/>
+  <node id="1891714885" lat="54.5428328" lon="-5.8956216"/>
+  <node id="1891714889" lat="54.5446611" lon="-5.9517235"/>
+  <node id="1891714893" lat="54.5512423" lon="-6.0487987"/>
+  <node id="1891714896" lat="54.5581880" lon="-5.8861662"/>
+  <node id="1891714899" lat="54.5596500" lon="-5.9038163"/>
+  <node id="1891714901" lat="54.5647670" lon="-6.0418648"/>
+  <node id="1891714902" lat="54.5709795" lon="-5.8861662"/>
+  <node id="1891714903" lat="54.5760950" lon="-5.8697769"/>
+  <node id="1891714904" lat="54.5768257" lon="-6.0368219"/>
+  <node id="1891714917" lat="54.5775564" lon="-6.0109772"/>
+  <node id="1891714921" lat="54.5782871" lon="-5.8464536"/>
+  <node id="1891714925" lat="54.5808445" lon="-5.9996308"/>
+  <node id="1891714930" lat="54.5881504" lon="-5.8269125"/>
+  <node id="1891714934" lat="54.5939941" lon="-5.9983700"/>
+  <node id="1891714938" lat="54.6075046" lon="-5.8313250"/>
+  <node id="1891714942" lat="54.6126155" lon="-5.9920665"/>
+  <node id="1891714946" lat="54.6210106" lon="-5.8445626"/>
+  <node id="1891714950" lat="54.6235653" lon="-5.9845022"/>
+  <node id="1891714954" lat="54.6283093" lon="-5.8647340"/>
+  <node id="1891714960" lat="54.6403492" lon="-5.9372253"/>
+  <node id="1891714964" lat="54.6450913" lon="-5.8931002"/>
+  <node id="1896109945" lat="52.2107058" lon="0.1911227"/>
+  <node id="1896109948" lat="52.2101899" lon="0.1907154"/>
+  <node id="1896118584" lat="52.2049510" lon="0.1849678"/>
+  <node id="1902538989" lat="51.8887161" lon="-8.9827344"/>
+  <node id="1902539247" lat="51.8886747" lon="-8.9831850"/>
+  <node id="1902539400" lat="51.8887905" lon="-8.9828202"/>
+  <node id="1902539604" lat="51.8887707" lon="-8.9827424"/>
+  <node id="1902539942" lat="51.8886664" lon="-8.9829248"/>
+  <node id="1902540062" lat="51.8887161" lon="-8.9831877"/>
+  <node id="1902540071" lat="51.8887558" lon="-8.9831099"/>
+  <node id="1902540276" lat="51.8888005" lon="-8.9829811"/>
+  <node id="1908665406" lat="52.1937883" lon="0.1880153"/>
+  <node id="1908665433" lat="52.1938401" lon="0.1879757"/>
+  <node id="1908665442" lat="52.1937346" lon="0.1880486"/>
+  <node id="1949967722" lat="51.7720621" lon="-0.3516789"/>
+  <node id="1963718051" lat="51.7735335" lon="-0.3498992"/>
+  <node id="1965999709" lat="51.7767749" lon="-0.3448949"/>
+  <node id="1965999869" lat="51.7770731" lon="-0.3441632"/>
+  <node id="1990323618" lat="52.1836133" lon="0.1726347"/>
+  <node id="2162542737" lat="52.2058956" lon="0.0986621"/>
+  <node id="2165281000" lat="52.1882705" lon="0.1200840"/>
+  <node id="2178345765" lat="52.2205079" lon="0.1007411"/>
+  <node id="2191756753" lat="52.1952268" lon="0.0983718"/>
+  <node id="2191756762" lat="52.1953133" lon="0.0975140"/>
+  <node id="2191756763" lat="52.1951673" lon="0.0989558"/>
+  <node id="2191756766" lat="52.1952914" lon="0.0977313"/>
+  <node id="2191756767" lat="52.1952775" lon="0.0978688"/>
+  <node id="2191756773" lat="52.1951395" lon="0.0992390"/>
+  <node id="2191756778" lat="52.1951566" lon="0.0990530"/>
+  <node id="2191756782" lat="52.1952510" lon="0.0981323"/>
+  <node id="2191756783" lat="52.1951474" lon="0.0991508"/>
+  <node id="2191756787" lat="52.1952192" lon="0.0984473"/>
+  <node id="2191756796" lat="52.1951847" lon="0.0987893"/>
+  <node id="2191756802" lat="52.1951939" lon="0.0986977"/>
+  <node id="2191756814" lat="52.1953027" lon="0.0976199"/>
+  <node id="2191756842" lat="52.1952580" lon="0.0980626"/>
+  <node id="2191756847" lat="52.1950758" lon="0.0998596"/>
+  <node id="2191756848" lat="52.1952031" lon="0.0986069"/>
+  <node id="2191756852" lat="52.1952116" lon="0.0985225"/>
+  <node id="2191756853" lat="52.1952426" lon="0.0982151"/>
+  <node id="2191756855" lat="52.1952676" lon="0.0979669"/>
+  <node id="2191756858" lat="52.1951192" lon="0.0994236"/>
+  <node id="2191756862" lat="52.1951763" lon="0.0988724"/>
+  <node id="2191756866" lat="52.1952345" lon="0.0982956"/>
+  <node id="2191756869" lat="52.1951322" lon="0.0993056"/>
+  <node id="2195698896" lat="52.1953639" lon="0.1005539"/>
+  <node id="2261482305" lat="52.2235994" lon="0.1053837"/>
+  <node id="2269480662" lat="52.2214105" lon="0.1019137"/>
+  <node id="2269480689" lat="52.2208765" lon="0.1012200"/>
+  <node id="2322419199" lat="54.9053947" lon="-2.9208297"/>
+  <node id="2322435980" lat="54.8959592" lon="-2.9002805"/>
+  <node id="2359317309" lat="52.2171580" lon="0.1718961"/>
+  <node id="2399157286" lat="54.8773069" lon="-2.9724969"/>
+  <node id="2399157288" lat="54.8674295" lon="-2.8943051"/>
+  <node id="2399157290" lat="54.8769118" lon="-2.9570903"/>
+  <node id="2399157293" lat="54.9294687" lon="-2.9454173"/>
+  <node id="2399157295" lat="54.9082568" lon="-2.9212989"/>
+  <node id="2399157296" lat="54.8788130" lon="-2.9424990"/>
+  <node id="2399157297" lat="54.8990533" lon="-2.9070510"/>
+  <node id="2399157298" lat="54.9009287" lon="-2.9115142"/>
+  <node id="2399157300" lat="54.8748705" lon="-2.9343516"/>
+  <node id="2399157302" lat="54.9247586" lon="-2.9441298"/>
+  <node id="2399157304" lat="54.9000650" lon="-2.9098405"/>
+  <node id="2399157306" lat="54.8785908" lon="-2.9718531"/>
+  <node id="2399157308" lat="54.8755785" lon="-2.9606951"/>
+  <node id="2399157311" lat="54.9128315" lon="-2.9192736"/>
+  <node id="2399157313" lat="54.8782032" lon="-2.9753636"/>
+  <node id="2399157315" lat="54.8741217" lon="-2.9284228"/>
+  <node id="2399157317" lat="54.8694990" lon="-2.9153975"/>
+  <node id="2399157319" lat="54.8741711" lon="-2.9346026"/>
+  <node id="2399157321" lat="54.9182475" lon="-2.9358472"/>
+  <node id="2399157323" lat="54.8722181" lon="-2.9320391"/>
+  <node id="2399157327" lat="54.9125247" lon="-2.9554595"/>
+  <node id="2399157329" lat="54.9057037" lon="-2.9231213"/>
+  <node id="2399157332" lat="54.8782251" lon="-2.9557415"/>
+  <node id="2399157334" lat="54.8734056" lon="-2.9353322"/>
+  <node id="2399157336" lat="54.8798005" lon="-2.9768742"/>
+  <node id="2399157338" lat="54.8769612" lon="-2.9374350"/>
+  <node id="2399157340" lat="54.8695153" lon="-2.8962131"/>
+  <node id="2399157342" lat="54.8655278" lon="-2.8895844"/>
+  <node id="2399157345" lat="54.8791117" lon="-2.8808110"/>
+  <node id="2399157347" lat="54.9041858" lon="-2.9554166"/>
+  <node id="2399157349" lat="54.8945371" lon="-2.8876532"/>
+  <node id="2399157352" lat="54.8763563" lon="-2.8788338"/>
+  <node id="2399157354" lat="54.8652067" lon="-2.8914298"/>
+  <node id="2399157356" lat="54.8713807" lon="-2.8784264"/>
+  <node id="2399157358" lat="54.8865055" lon="-2.9889249"/>
+  <node id="2399157360" lat="54.8713807" lon="-2.8819455"/>
+  <node id="2399157362" lat="54.9023593" lon="-2.9139184"/>
+  <node id="2399157364" lat="54.9000979" lon="-2.9706039"/>
+  <node id="2399157366" lat="54.8759160" lon="-2.9355593"/>
+  <node id="2399157368" lat="54.9092190" lon="-2.9185094"/>
+  <node id="2399157371" lat="54.8992507" lon="-2.9658879"/>
+  <node id="2399157373" lat="54.8696027" lon="-2.8835763"/>
+  <node id="2399157375" lat="54.8720948" lon="-2.8764248"/>
+  <node id="2399157377" lat="54.8799759" lon="-2.9432767"/>
+  <node id="2399157379" lat="54.9208620" lon="-2.9598798"/>
+  <node id="2399157381" lat="54.9118674" lon="-2.9216261"/>
+  <node id="2406986912" lat="54.8696776" lon="-2.8997834"/>
+  <way id="51794166">
+    <nd ref="660854315"/>
+    <nd ref="1965999869"/>
+    <nd ref="660854316"/>
+    <nd ref="660854317"/>
+    <nd ref="660854318"/>
+    <nd ref="660854319"/>
+    <nd ref="660854320"/>
+    <nd ref="660854321"/>
+    <nd ref="660854322"/>
+    <nd ref="660854323"/>
+    <nd ref="660854324"/>
+    <nd ref="660854325"/>
+    <nd ref="660854326"/>
+    <nd ref="660854327"/>
+    <nd ref="1949967722"/>
+    <nd ref="1963718051"/>
+    <nd ref="1965999709"/>
+    <nd ref="660854315"/>
+    <tag k="name" v="St Albans"/>
+    <tag k="place" v="city"/>
+  </way>
+  <way id="58821394">
+    <nd ref="728857646"/>
+    <nd ref="728857650"/>
+    <nd ref="728857647"/>
+    <nd ref="728857648"/>
+    <nd ref="728857649"/>
+    <nd ref="728857651"/>
+    <nd ref="728857652"/>
+    <nd ref="728857654"/>
+    <nd ref="728857655"/>
+    <nd ref="728857653"/>
+    <nd ref="728857656"/>
+    <nd ref="728857634"/>
+    <nd ref="728857642"/>
+    <nd ref="728857640"/>
+    <nd ref="728857641"/>
+    <nd ref="728857639"/>
+    <nd ref="728857636"/>
+    <nd ref="728857633"/>
+    <nd ref="728857631"/>
+    <nd ref="728857638"/>
+    <nd ref="728857635"/>
+    <nd ref="728857628"/>
+    <nd ref="728857629"/>
+    <nd ref="728857630"/>
+    <nd ref="728857632"/>
+    <nd ref="728857626"/>
+    <nd ref="728857627"/>
+    <nd ref="728857623"/>
+    <nd ref="1442998137"/>
+    <nd ref="1442998240"/>
+    <nd ref="1442998244"/>
+    <nd ref="728857621"/>
+    <nd ref="728857620"/>
+    <nd ref="728857619"/>
+    <nd ref="728857617"/>
+    <nd ref="728857618"/>
+    <nd ref="728857615"/>
+    <nd ref="728857601"/>
+    <nd ref="728857600"/>
+    <nd ref="728857598"/>
+    <nd ref="728857599"/>
+    <nd ref="728857595"/>
+    <nd ref="728857596"/>
+    <nd ref="728857597"/>
+    <nd ref="728857590"/>
+    <nd ref="728857588"/>
+    <nd ref="728857589"/>
+    <nd ref="728857586"/>
+    <nd ref="728857585"/>
+    <nd ref="728857583"/>
+    <nd ref="728857584"/>
+    <nd ref="728857578"/>
+    <nd ref="728857579"/>
+    <nd ref="728857577"/>
+    <nd ref="728857580"/>
+    <nd ref="728857581"/>
+    <nd ref="728857582"/>
+    <nd ref="728857593"/>
+    <nd ref="728857594"/>
+    <nd ref="728857602"/>
+    <nd ref="728857603"/>
+    <nd ref="728857604"/>
+    <nd ref="728857624"/>
+    <nd ref="320933991"/>
+    <nd ref="1497870561"/>
+    <nd ref="320933990"/>
+    <nd ref="18352503"/>
+    <nd ref="728857605"/>
+    <nd ref="1806134530"/>
+    <nd ref="1806134609"/>
+    <nd ref="728857607"/>
+    <nd ref="728857609"/>
+    <nd ref="2359317309"/>
+    <nd ref="728857610"/>
+    <nd ref="728857611"/>
+    <nd ref="728857613"/>
+    <nd ref="728857614"/>
+    <nd ref="728858213"/>
+    <nd ref="728857606"/>
+    <nd ref="728858211"/>
+    <nd ref="728858212"/>
+    <nd ref="728858199"/>
+    <nd ref="728858200"/>
+    <nd ref="728858202"/>
+    <nd ref="728858203"/>
+    <nd ref="728858204"/>
+    <nd ref="728858214"/>
+    <nd ref="728858216"/>
+    <nd ref="728858215"/>
+    <nd ref="728858207"/>
+    <nd ref="728858209"/>
+    <nd ref="728858210"/>
+    <nd ref="728858221"/>
+    <nd ref="728858222"/>
+    <nd ref="728858224"/>
+    <nd ref="728858225"/>
+    <nd ref="1896109945"/>
+    <nd ref="728858223"/>
+    <nd ref="1896109948"/>
+    <nd ref="728858220"/>
+    <nd ref="728858218"/>
+    <nd ref="728858219"/>
+    <nd ref="728858217"/>
+    <nd ref="1239242330"/>
+    <nd ref="728858206"/>
+    <nd ref="728857283"/>
+    <nd ref="1896118584"/>
+    <nd ref="728857281"/>
+    <nd ref="728857277"/>
+    <nd ref="728857279"/>
+    <nd ref="728857276"/>
+    <nd ref="728857273"/>
+    <nd ref="728857275"/>
+    <nd ref="728857272"/>
+    <nd ref="728857270"/>
+    <nd ref="728857271"/>
+    <nd ref="1239218708"/>
+    <nd ref="728857260"/>
+    <nd ref="1846011152"/>
+    <nd ref="728857267"/>
+    <nd ref="1846035328"/>
+    <nd ref="1846011183"/>
+    <nd ref="728857268"/>
+    <nd ref="1846011173"/>
+    <nd ref="1908665433"/>
+    <nd ref="1908665406"/>
+    <nd ref="1908665442"/>
+    <nd ref="728857269"/>
+    <nd ref="1846035331"/>
+    <nd ref="1846035322"/>
+    <nd ref="728857265"/>
+    <nd ref="728857264"/>
+    <nd ref="1239219195"/>
+    <nd ref="1239219039"/>
+    <nd ref="1846035327"/>
+    <nd ref="728857261"/>
+    <nd ref="1239219160"/>
+    <nd ref="1846035332"/>
+    <nd ref="1846035326"/>
+    <nd ref="728857262"/>
+    <nd ref="728857258"/>
+    <nd ref="728857257"/>
+    <nd ref="728857256"/>
+    <nd ref="728857255"/>
+    <nd ref="728857254"/>
+    <nd ref="728857252"/>
+    <nd ref="728857251"/>
+    <nd ref="728857250"/>
+    <nd ref="728857249"/>
+    <nd ref="728857248"/>
+    <nd ref="728857244"/>
+    <nd ref="728857242"/>
+    <nd ref="728857243"/>
+    <nd ref="728857241"/>
+    <nd ref="728857245"/>
+    <nd ref="728857246"/>
+    <nd ref="728857247"/>
+    <nd ref="728857237"/>
+    <nd ref="728857240"/>
+    <nd ref="1990323618"/>
+    <nd ref="728857239"/>
+    <nd ref="728857238"/>
+    <nd ref="728857236"/>
+    <nd ref="728857233"/>
+    <nd ref="728857235"/>
+    <nd ref="728857232"/>
+    <nd ref="728857230"/>
+    <nd ref="728857229"/>
+    <nd ref="728857231"/>
+    <nd ref="728857227"/>
+    <nd ref="728857228"/>
+    <nd ref="728857222"/>
+    <nd ref="728857223"/>
+    <nd ref="728857224"/>
+    <nd ref="728857225"/>
+    <nd ref="728857221"/>
+    <nd ref="728857218"/>
+    <nd ref="728857219"/>
+    <nd ref="728857220"/>
+    <nd ref="728857215"/>
+    <nd ref="728857216"/>
+    <nd ref="728857214"/>
+    <nd ref="728857212"/>
+    <nd ref="728857213"/>
+    <nd ref="728857210"/>
+    <nd ref="728857211"/>
+    <nd ref="728857209"/>
+    <nd ref="728857207"/>
+    <nd ref="728857206"/>
+    <nd ref="728857205"/>
+    <nd ref="728857201"/>
+    <nd ref="728857202"/>
+    <nd ref="728857203"/>
+    <nd ref="728857204"/>
+    <nd ref="728857198"/>
+    <nd ref="728857200"/>
+    <nd ref="728857195"/>
+    <nd ref="728857197"/>
+    <nd ref="728857193"/>
+    <nd ref="728857194"/>
+    <nd ref="728857192"/>
+    <nd ref="728857075"/>
+    <nd ref="728857073"/>
+    <nd ref="728857074"/>
+    <nd ref="728857071"/>
+    <nd ref="728857072"/>
+    <nd ref="728857069"/>
+    <nd ref="728857070"/>
+    <nd ref="728856976"/>
+    <nd ref="728856977"/>
+    <nd ref="728856978"/>
+    <nd ref="728856979"/>
+    <nd ref="728856974"/>
+    <nd ref="728856975"/>
+    <nd ref="728856971"/>
+    <nd ref="728856967"/>
+    <nd ref="728856972"/>
+    <nd ref="728856973"/>
+    <nd ref="728856969"/>
+    <nd ref="728857062"/>
+    <nd ref="418846712"/>
+    <nd ref="728857064"/>
+    <nd ref="728857065"/>
+    <nd ref="728857060"/>
+    <nd ref="728857061"/>
+    <nd ref="728857057"/>
+    <nd ref="728857058"/>
+    <nd ref="728856985"/>
+    <nd ref="728856984"/>
+    <nd ref="728856981"/>
+    <nd ref="728856982"/>
+    <nd ref="728856983"/>
+    <nd ref="728856987"/>
+    <nd ref="728856988"/>
+    <nd ref="728856990"/>
+    <nd ref="728857066"/>
+    <nd ref="728857068"/>
+    <nd ref="728856994"/>
+    <nd ref="728856993"/>
+    <nd ref="728856992"/>
+    <nd ref="728856991"/>
+    <nd ref="728856989"/>
+    <nd ref="728857054"/>
+    <nd ref="728857056"/>
+    <nd ref="728857055"/>
+    <nd ref="728857076"/>
+    <nd ref="728857078"/>
+    <nd ref="728857080"/>
+    <nd ref="1828857101"/>
+    <nd ref="1828857307"/>
+    <nd ref="728857079"/>
+    <nd ref="1828877339"/>
+    <nd ref="1828857220"/>
+    <nd ref="1828857347"/>
+    <nd ref="1828857294"/>
+    <nd ref="1828857557"/>
+    <nd ref="728857082"/>
+    <nd ref="728857081"/>
+    <nd ref="728857083"/>
+    <nd ref="728857084"/>
+    <nd ref="728857150"/>
+    <nd ref="728857146"/>
+    <nd ref="728857147"/>
+    <nd ref="728857152"/>
+    <nd ref="2165281000"/>
+    <nd ref="728857180"/>
+    <nd ref="728857151"/>
+    <nd ref="1424948182"/>
+    <nd ref="1424948183"/>
+    <nd ref="1424948166"/>
+    <nd ref="728857154"/>
+    <nd ref="1424948162"/>
+    <nd ref="1424948180"/>
+    <nd ref="1424948177"/>
+    <nd ref="728857166"/>
+    <nd ref="1424948172"/>
+    <nd ref="1424948173"/>
+    <nd ref="728857165"/>
+    <nd ref="1424948184"/>
+    <nd ref="1424948181"/>
+    <nd ref="728857170"/>
+    <nd ref="728857168"/>
+    <nd ref="728857169"/>
+    <nd ref="728857171"/>
+    <nd ref="728857172"/>
+    <nd ref="728857173"/>
+    <nd ref="728857174"/>
+    <nd ref="728857175"/>
+    <nd ref="728857178"/>
+    <nd ref="1514381500"/>
+    <nd ref="1514381503"/>
+    <nd ref="1514381513"/>
+    <nd ref="728857177"/>
+    <nd ref="1514381594"/>
+    <nd ref="728857189"/>
+    <nd ref="728857187"/>
+    <nd ref="1494525222"/>
+    <nd ref="728857191"/>
+    <nd ref="1494525232"/>
+    <nd ref="728857190"/>
+    <nd ref="728857186"/>
+    <nd ref="728857185"/>
+    <nd ref="728857181"/>
+    <nd ref="728857182"/>
+    <nd ref="728857159"/>
+    <nd ref="728857164"/>
+    <nd ref="728857160"/>
+    <nd ref="728857162"/>
+    <nd ref="728857161"/>
+    <nd ref="728857158"/>
+    <nd ref="728857157"/>
+    <nd ref="728857155"/>
+    <nd ref="728857153"/>
+    <nd ref="728857097"/>
+    <nd ref="728857096"/>
+    <nd ref="728857099"/>
+    <nd ref="728857098"/>
+    <nd ref="1752763110"/>
+    <nd ref="1752763089"/>
+    <nd ref="728857100"/>
+    <nd ref="728857093"/>
+    <nd ref="728857094"/>
+    <nd ref="728857095"/>
+    <nd ref="728857092"/>
+    <nd ref="2195698896"/>
+    <nd ref="728857086"/>
+    <nd ref="728857089"/>
+    <nd ref="728857091"/>
+    <nd ref="2191756847"/>
+    <nd ref="2191756858"/>
+    <nd ref="2191756869"/>
+    <nd ref="2191756773"/>
+    <nd ref="2191756783"/>
+    <nd ref="2191756778"/>
+    <nd ref="2191756763"/>
+    <nd ref="2191756862"/>
+    <nd ref="2191756796"/>
+    <nd ref="2191756802"/>
+    <nd ref="2191756848"/>
+    <nd ref="2191756852"/>
+    <nd ref="2191756787"/>
+    <nd ref="2191756753"/>
+    <nd ref="2191756866"/>
+    <nd ref="2191756853"/>
+    <nd ref="2191756782"/>
+    <nd ref="2191756842"/>
+    <nd ref="2191756855"/>
+    <nd ref="2191756767"/>
+    <nd ref="2191756766"/>
+    <nd ref="2191756814"/>
+    <nd ref="2191756762"/>
+    <nd ref="728857085"/>
+    <nd ref="728857106"/>
+    <nd ref="1865703315"/>
+    <nd ref="728857127"/>
+    <nd ref="728857128"/>
+    <nd ref="728857130"/>
+    <nd ref="728857111"/>
+    <nd ref="728857109"/>
+    <nd ref="728857107"/>
+    <nd ref="728857104"/>
+    <nd ref="728857105"/>
+    <nd ref="728857101"/>
+    <nd ref="850011510"/>
+    <nd ref="728857113"/>
+    <nd ref="728857115"/>
+    <nd ref="728857114"/>
+    <nd ref="728857112"/>
+    <nd ref="728857116"/>
+    <nd ref="728857118"/>
+    <nd ref="728857119"/>
+    <nd ref="728857132"/>
+    <nd ref="728857133"/>
+    <nd ref="728857135"/>
+    <nd ref="728857134"/>
+    <nd ref="728857138"/>
+    <nd ref="728857136"/>
+    <nd ref="728857120"/>
+    <nd ref="728857121"/>
+    <nd ref="728857122"/>
+    <nd ref="728857123"/>
+    <nd ref="728857124"/>
+    <nd ref="2162542737"/>
+    <nd ref="728857144"/>
+    <nd ref="728857125"/>
+    <nd ref="728857126"/>
+    <nd ref="728857499"/>
+    <nd ref="728857357"/>
+    <nd ref="728857356"/>
+    <nd ref="728857354"/>
+    <nd ref="728857349"/>
+    <nd ref="728857350"/>
+    <nd ref="728857351"/>
+    <nd ref="728857353"/>
+    <nd ref="728857355"/>
+    <nd ref="728857358"/>
+    <nd ref="728857359"/>
+    <nd ref="728857360"/>
+    <nd ref="728857362"/>
+    <nd ref="728857500"/>
+    <nd ref="728857501"/>
+    <nd ref="728857502"/>
+    <nd ref="728857503"/>
+    <nd ref="728857505"/>
+    <nd ref="728857504"/>
+    <nd ref="728857510"/>
+    <nd ref="728857506"/>
+    <nd ref="728857509"/>
+    <nd ref="728857508"/>
+    <nd ref="728857511"/>
+    <nd ref="728857512"/>
+    <nd ref="728857513"/>
+    <nd ref="728857515"/>
+    <nd ref="728857514"/>
+    <nd ref="728857546"/>
+    <nd ref="728857525"/>
+    <nd ref="1644319841"/>
+    <nd ref="1644319823"/>
+    <nd ref="1644319776"/>
+    <nd ref="1644319812"/>
+    <nd ref="728857516"/>
+    <nd ref="728857517"/>
+    <nd ref="1644319910"/>
+    <nd ref="1644319938"/>
+    <nd ref="728857522"/>
+    <nd ref="728857523"/>
+    <nd ref="728857520"/>
+    <nd ref="728857521"/>
+    <nd ref="728857533"/>
+    <nd ref="728857527"/>
+    <nd ref="728857536"/>
+    <nd ref="728857531"/>
+    <nd ref="728857534"/>
+    <nd ref="728857535"/>
+    <nd ref="728857538"/>
+    <nd ref="728857542"/>
+    <nd ref="728857544"/>
+    <nd ref="728857545"/>
+    <nd ref="728857552"/>
+    <nd ref="728857551"/>
+    <nd ref="728857541"/>
+    <nd ref="728857539"/>
+    <nd ref="728857540"/>
+    <nd ref="728857529"/>
+    <nd ref="728857530"/>
+    <nd ref="728857528"/>
+    <nd ref="728857547"/>
+    <nd ref="2178345765"/>
+    <nd ref="2269480689"/>
+    <nd ref="2269480662"/>
+    <nd ref="728857548"/>
+    <nd ref="728857549"/>
+    <nd ref="2261482305"/>
+    <nd ref="728857553"/>
+    <nd ref="728857555"/>
+    <nd ref="728857554"/>
+    <nd ref="728857559"/>
+    <nd ref="728857560"/>
+    <nd ref="728857563"/>
+    <nd ref="728857561"/>
+    <nd ref="728857562"/>
+    <nd ref="728857564"/>
+    <nd ref="728857565"/>
+    <nd ref="728857566"/>
+    <nd ref="728857568"/>
+    <nd ref="728857569"/>
+    <nd ref="728857570"/>
+    <nd ref="728857571"/>
+    <nd ref="728857572"/>
+    <nd ref="728857573"/>
+    <nd ref="728857575"/>
+    <nd ref="728857576"/>
+    <nd ref="728857643"/>
+    <nd ref="728857644"/>
+    <nd ref="728857646"/>
+    <tag k="area" v="yes"/>
+    <tag k="layer" v="-3"/>
+    <tag k="name" v="Cambridge"/>
+    <tag k="name:ru" v="Кембридж"/>
+    <tag k="note" v="please leave at layer 3: if rendered as an area at 0 other important layer -1's disappear"/>
+    <tag k="place" v="city"/>
+  </way>
+  <way id="70174319">
+    <nd ref="837955841"/>
+    <nd ref="837955734"/>
+    <nd ref="837955791"/>
+    <nd ref="837955852"/>
+    <nd ref="837955917"/>
+    <nd ref="837955541"/>
+    <nd ref="837955638"/>
+    <nd ref="837955700"/>
+    <nd ref="837955760"/>
+    <nd ref="837955818"/>
+    <nd ref="837955882"/>
+    <nd ref="837955470"/>
+    <nd ref="837955524"/>
+    <nd ref="837955632"/>
+    <nd ref="837955695"/>
+    <nd ref="837955753"/>
+    <nd ref="837955810"/>
+    <nd ref="837955873"/>
+    <nd ref="837955935"/>
+    <nd ref="837955583"/>
+    <nd ref="837955657"/>
+    <nd ref="837955724"/>
+    <nd ref="837955781"/>
+    <nd ref="837955849"/>
+    <nd ref="837955913"/>
+    <nd ref="837955536"/>
+    <nd ref="837955636"/>
+    <nd ref="837955698"/>
+    <nd ref="837955756"/>
+    <nd ref="837955813"/>
+    <nd ref="837955876"/>
+    <nd ref="837955464"/>
+    <nd ref="837955592"/>
+    <nd ref="837955660"/>
+    <nd ref="837955728"/>
+    <nd ref="837955784"/>
+    <nd ref="837955846"/>
+    <nd ref="837955911"/>
+    <nd ref="29865252"/>
+    <nd ref="29865258"/>
+    <nd ref="1647071053"/>
+    <nd ref="29865257"/>
+    <nd ref="1647071064"/>
+    <nd ref="1647071066"/>
+    <nd ref="1647071055"/>
+    <nd ref="1647071042"/>
+    <nd ref="1647071049"/>
+    <nd ref="1647071035"/>
+    <nd ref="1647071029"/>
+    <nd ref="29865256"/>
+    <nd ref="837955932"/>
+    <nd ref="837955577"/>
+    <nd ref="837955654"/>
+    <nd ref="837955721"/>
+    <nd ref="837955775"/>
+    <nd ref="837955836"/>
+    <nd ref="837955899"/>
+    <nd ref="837955508"/>
+    <nd ref="837955622"/>
+    <nd ref="837955678"/>
+    <nd ref="837955745"/>
+    <nd ref="837955802"/>
+    <nd ref="837955910"/>
+    <nd ref="837955523"/>
+    <nd ref="837955631"/>
+    <nd ref="837955694"/>
+    <nd ref="837955752"/>
+    <nd ref="837955809"/>
+    <nd ref="837955872"/>
+    <nd ref="837955934"/>
+    <nd ref="837955580"/>
+    <nd ref="837955656"/>
+    <nd ref="837955723"/>
+    <nd ref="837955780"/>
+    <nd ref="837955840"/>
+    <nd ref="1593157390"/>
+    <nd ref="1593157394"/>
+    <nd ref="837955904"/>
+    <nd ref="837955519"/>
+    <nd ref="837955628"/>
+    <nd ref="837955647"/>
+    <nd ref="837955709"/>
+    <nd ref="837955768"/>
+    <nd ref="837955827"/>
+    <nd ref="837955892"/>
+    <nd ref="837955492"/>
+    <nd ref="837955613"/>
+    <nd ref="837955670"/>
+    <nd ref="837955739"/>
+    <nd ref="837955795"/>
+    <nd ref="837955856"/>
+    <nd ref="837955922"/>
+    <nd ref="837955553"/>
+    <nd ref="1373809300"/>
+    <nd ref="837955641"/>
+    <nd ref="837955704"/>
+    <nd ref="1373792692"/>
+    <nd ref="1373792704"/>
+    <nd ref="1373792713"/>
+    <nd ref="1373792719"/>
+    <nd ref="1373792722"/>
+    <nd ref="1373792725"/>
+    <nd ref="1373792727"/>
+    <nd ref="837955764"/>
+    <nd ref="1373792740"/>
+    <nd ref="1373792742"/>
+    <nd ref="1373792747"/>
+    <nd ref="837955864"/>
+    <nd ref="837955928"/>
+    <nd ref="1373792762"/>
+    <nd ref="1373792776"/>
+    <nd ref="837955570"/>
+    <nd ref="1373792796"/>
+    <nd ref="1373792797"/>
+    <nd ref="837955651"/>
+    <nd ref="837955717"/>
+    <nd ref="1373779002"/>
+    <nd ref="837955771"/>
+    <nd ref="837955832"/>
+    <nd ref="1373779022"/>
+    <nd ref="837955896"/>
+    <nd ref="837955500"/>
+    <nd ref="837955619"/>
+    <nd ref="837955673"/>
+    <nd ref="837955841"/>
+    <tag k="area" v="yes"/>
+    <tag k="fixme" v="What does this area represent?---CP extent?; residential areas?"/>
+    <tag k="fixme:source" v="Source this area"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Ely"/>
+    <tag k="place" v="city"/>
+  </way>
+  <way id="158742980">
+    <nd ref="1708878450"/>
+    <nd ref="1708878466"/>
+    <nd ref="1708878483"/>
+    <nd ref="1708878489"/>
+    <nd ref="1708878492"/>
+    <nd ref="1708878499"/>
+    <nd ref="1708878501"/>
+    <nd ref="1708878505"/>
+    <nd ref="1708878506"/>
+    <nd ref="1708878523"/>
+    <nd ref="1708878526"/>
+    <nd ref="1708878536"/>
+    <nd ref="1708878540"/>
+    <nd ref="1708878547"/>
+    <nd ref="1708878573"/>
+    <nd ref="1708878589"/>
+    <nd ref="1708878576"/>
+    <nd ref="1708878554"/>
+    <nd ref="1708878598"/>
+    <nd ref="1708878609"/>
+    <nd ref="1708878626"/>
+    <nd ref="1708878633"/>
+    <nd ref="1708878639"/>
+    <nd ref="1708878693"/>
+    <nd ref="1708878708"/>
+    <nd ref="1708878715"/>
+    <nd ref="1708878712"/>
+    <nd ref="1708878695"/>
+    <nd ref="1708878691"/>
+    <nd ref="1708878669"/>
+    <nd ref="1708878641"/>
+    <nd ref="1708878645"/>
+    <nd ref="1708878648"/>
+    <nd ref="1708878673"/>
+    <nd ref="1708878680"/>
+    <nd ref="1708878689"/>
+    <nd ref="1744431176"/>
+    <nd ref="1708878684"/>
+    <nd ref="1708878677"/>
+    <nd ref="1708878666"/>
+    <nd ref="1708878636"/>
+    <nd ref="1708878632"/>
+    <nd ref="1708878629"/>
+    <nd ref="1708878624"/>
+    <nd ref="1708878605"/>
+    <nd ref="1708878602"/>
+    <nd ref="1708878593"/>
+    <nd ref="1708878584"/>
+    <nd ref="1708878580"/>
+    <nd ref="1708878552"/>
+    <nd ref="1708878550"/>
+    <nd ref="1708878544"/>
+    <nd ref="1708878531"/>
+    <nd ref="1708878509"/>
+    <nd ref="1708878503"/>
+    <nd ref="1708878496"/>
+    <nd ref="1708878453"/>
+    <nd ref="1708878442"/>
+    <nd ref="1708878427"/>
+    <nd ref="1708878444"/>
+    <nd ref="1708878461"/>
+    <nd ref="1708878464"/>
+    <nd ref="1708878469"/>
+    <nd ref="1708878457"/>
+    <nd ref="1708878448"/>
+    <nd ref="1708878450"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Lurgan"/>
+    <tag k="place" v="city"/>
+  </way>
+  <way id="158743657">
+    <nd ref="1708886687"/>
+    <nd ref="1708886697"/>
+    <nd ref="1708886701"/>
+    <nd ref="1708886747"/>
+    <nd ref="1708886765"/>
+    <nd ref="1708886767"/>
+    <nd ref="1708886771"/>
+    <nd ref="1708886797"/>
+    <nd ref="1708886825"/>
+    <nd ref="1708886847"/>
+    <nd ref="1708886859"/>
+    <nd ref="1708886850"/>
+    <nd ref="1708886865"/>
+    <nd ref="1708886899"/>
+    <nd ref="1708886901"/>
+    <nd ref="1708886879"/>
+    <nd ref="1708886882"/>
+    <nd ref="1708886905"/>
+    <nd ref="1708886908"/>
+    <nd ref="1708886910"/>
+    <nd ref="1708886914"/>
+    <nd ref="1708886930"/>
+    <nd ref="1708886935"/>
+    <nd ref="1708886943"/>
+    <nd ref="1708886949"/>
+    <nd ref="1708886941"/>
+    <nd ref="1708886940"/>
+    <nd ref="1708886945"/>
+    <nd ref="1708886959"/>
+    <nd ref="1708886977"/>
+    <nd ref="1708886986"/>
+    <nd ref="1708887003"/>
+    <nd ref="1708887016"/>
+    <nd ref="1708887017"/>
+    <nd ref="1708887011"/>
+    <nd ref="1708887007"/>
+    <nd ref="1708886991"/>
+    <nd ref="1708886989"/>
+    <nd ref="1708886982"/>
+    <nd ref="1708886973"/>
+    <nd ref="1708886960"/>
+    <nd ref="1708886958"/>
+    <nd ref="1708886933"/>
+    <nd ref="1708886947"/>
+    <nd ref="1708886969"/>
+    <nd ref="1708887014"/>
+    <nd ref="1708887023"/>
+    <nd ref="1708887026"/>
+    <nd ref="1708887030"/>
+    <nd ref="1708887035"/>
+    <nd ref="1708887020"/>
+    <nd ref="1708886980"/>
+    <nd ref="1708886965"/>
+    <nd ref="1708886957"/>
+    <nd ref="1708886938"/>
+    <nd ref="1708886926"/>
+    <nd ref="1708886915"/>
+    <nd ref="1708886928"/>
+    <nd ref="1708886923"/>
+    <nd ref="1708886913"/>
+    <nd ref="1708886912"/>
+    <nd ref="1708886911"/>
+    <nd ref="1708886909"/>
+    <nd ref="1708886906"/>
+    <nd ref="1708886902"/>
+    <nd ref="1708886875"/>
+    <nd ref="1708886876"/>
+    <nd ref="1708886872"/>
+    <nd ref="1708886868"/>
+    <nd ref="1708886861"/>
+    <nd ref="1708886856"/>
+    <nd ref="1708886849"/>
+    <nd ref="1708886830"/>
+    <nd ref="1708886822"/>
+    <nd ref="1708886809"/>
+    <nd ref="1708886794"/>
+    <nd ref="1708886788"/>
+    <nd ref="1708886773"/>
+    <nd ref="1708886775"/>
+    <nd ref="1708886789"/>
+    <nd ref="1708886806"/>
+    <nd ref="1708886813"/>
+    <nd ref="1708886817"/>
+    <nd ref="1708886802"/>
+    <nd ref="1708886769"/>
+    <nd ref="1708886761"/>
+    <nd ref="1708886756"/>
+    <nd ref="1708886753"/>
+    <nd ref="1708886741"/>
+    <nd ref="1708886732"/>
+    <nd ref="1708886712"/>
+    <nd ref="1708886720"/>
+    <nd ref="1708886738"/>
+    <nd ref="1708886717"/>
+    <nd ref="1708886708"/>
+    <nd ref="1708886705"/>
+    <nd ref="1708886702"/>
+    <nd ref="1708886699"/>
+    <nd ref="1708886691"/>
+    <nd ref="1708886682"/>
+    <nd ref="1708886648"/>
+    <nd ref="1708886644"/>
+    <nd ref="1708886646"/>
+    <nd ref="1708886649"/>
+    <nd ref="1708886677"/>
+    <nd ref="1708886687"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Waringstown"/>
+    <tag k="place" v="city"/>
+  </way>
+  <way id="178814765">
+    <nd ref="1891714960"/>
+    <nd ref="1891714950"/>
+    <nd ref="1891714942"/>
+    <nd ref="1891714934"/>
+    <nd ref="1891714925"/>
+    <nd ref="1891714917"/>
+    <nd ref="1891714904"/>
+    <nd ref="1891714901"/>
+    <nd ref="1891714893"/>
+    <nd ref="1891714881"/>
+    <nd ref="1891714870"/>
+    <nd ref="1891714865"/>
+    <nd ref="1891714874"/>
+    <nd ref="1891714889"/>
+    <nd ref="1891714878"/>
+    <nd ref="1891714885"/>
+    <nd ref="1891714896"/>
+    <nd ref="1891714899"/>
+    <nd ref="1891714902"/>
+    <nd ref="1891714903"/>
+    <nd ref="1891714921"/>
+    <nd ref="1891714930"/>
+    <nd ref="1891714938"/>
+    <nd ref="1891714946"/>
+    <nd ref="1891714954"/>
+    <nd ref="1891714964"/>
+    <nd ref="1891714960"/>
+    <tag k="name" v="Belfast"/>
+    <tag k="name:lt" v="Belfastas"/>
+    <tag k="place" v="city"/>
+  </way>
+  <way id="179824359">
+    <nd ref="1902540276"/>
+    <nd ref="1902540071"/>
+    <nd ref="1902540062"/>
+    <nd ref="1902539247"/>
+    <nd ref="1902539942"/>
+    <nd ref="1902538989"/>
+    <nd ref="1902539604"/>
+    <nd ref="1902539400"/>
+    <nd ref="1902540276"/>
+    <tag k="place" v="city"/>
+    <tag k="source" v="Local knowledge, Bing"/>
+  </way>
+  <way id="231549499">
+    <nd ref="2399157342"/>
+    <nd ref="1708299086"/>
+    <nd ref="2399157373"/>
+    <nd ref="2399157360"/>
+    <nd ref="2399157356"/>
+    <nd ref="2399157375"/>
+    <nd ref="2399157352"/>
+    <nd ref="2399157345"/>
+    <nd ref="328831"/>
+    <nd ref="2399157349"/>
+    <nd ref="379104203"/>
+    <nd ref="315391560"/>
+    <nd ref="315391561"/>
+    <nd ref="315391562"/>
+    <nd ref="315391566"/>
+    <nd ref="2322435980"/>
+    <nd ref="315391567"/>
+    <nd ref="2399157297"/>
+    <nd ref="2399157304"/>
+    <nd ref="2399157298"/>
+    <nd ref="2399157362"/>
+    <nd ref="367843584"/>
+    <nd ref="410204387"/>
+    <nd ref="2322419199"/>
+    <nd ref="2399157329"/>
+    <nd ref="2399157295"/>
+    <nd ref="2399157368"/>
+    <nd ref="835876024"/>
+    <nd ref="835876021"/>
+    <nd ref="2399157311"/>
+    <nd ref="2399157381"/>
+    <nd ref="835875063"/>
+    <nd ref="835875062"/>
+    <nd ref="835875059"/>
+    <nd ref="835875056"/>
+    <nd ref="835875054"/>
+    <nd ref="835875033"/>
+    <nd ref="835875031"/>
+    <nd ref="835875028"/>
+    <nd ref="835877292"/>
+    <nd ref="2399157321"/>
+    <nd ref="835877296"/>
+    <nd ref="835877300"/>
+    <nd ref="835877301"/>
+    <nd ref="2399157302"/>
+    <nd ref="2399157293"/>
+    <nd ref="798780979"/>
+    <nd ref="798780976"/>
+    <nd ref="1404609779"/>
+    <nd ref="1404610405"/>
+    <nd ref="2399157379"/>
+    <nd ref="560078031"/>
+    <nd ref="798745750"/>
+    <nd ref="2399157327"/>
+    <nd ref="1276292948"/>
+    <nd ref="835879208"/>
+    <nd ref="835879213"/>
+    <nd ref="835879216"/>
+    <nd ref="2399157347"/>
+    <nd ref="1347256091"/>
+    <nd ref="2399157371"/>
+    <nd ref="2399157364"/>
+    <nd ref="367841808"/>
+    <nd ref="842600449"/>
+    <nd ref="829486654"/>
+    <nd ref="2399157358"/>
+    <nd ref="843954648"/>
+    <nd ref="835861397"/>
+    <nd ref="2399157336"/>
+    <nd ref="2399157313"/>
+    <nd ref="2399157286"/>
+    <nd ref="2399157306"/>
+    <nd ref="835855746"/>
+    <nd ref="2399157308"/>
+    <nd ref="2399157290"/>
+    <nd ref="2399157332"/>
+    <nd ref="1362703036"/>
+    <nd ref="1362703072"/>
+    <nd ref="1362703042"/>
+    <nd ref="443780768"/>
+    <nd ref="1431894450"/>
+    <nd ref="2399157377"/>
+    <nd ref="2399157296"/>
+    <nd ref="836669335"/>
+    <nd ref="2399157338"/>
+    <nd ref="2399157366"/>
+    <nd ref="2399157300"/>
+    <nd ref="2399157319"/>
+    <nd ref="2399157334"/>
+    <nd ref="734725033"/>
+    <nd ref="2399157323"/>
+    <nd ref="836669414"/>
+    <nd ref="2399157315"/>
+    <nd ref="836669409"/>
+    <nd ref="836669406"/>
+    <nd ref="836669400"/>
+    <nd ref="836669398"/>
+    <nd ref="836669396"/>
+    <nd ref="836669395"/>
+    <nd ref="836669393"/>
+    <nd ref="836669391"/>
+    <nd ref="314950486"/>
+    <nd ref="2399157317"/>
+    <nd ref="836669385"/>
+    <nd ref="2406986912"/>
+    <nd ref="2399157340"/>
+    <nd ref="2399157288"/>
+    <nd ref="1708299104"/>
+    <nd ref="1708299091"/>
+    <nd ref="1708299083"/>
+    <nd ref="2399157354"/>
+    <nd ref="1708299095"/>
+    <nd ref="1708299078"/>
+    <nd ref="2399157342"/>
+    <tag k="name" v="Carlisle"/>
+    <tag k="place" v="city"/>
+  </way>
+  <relation id="162378">
+    <member type="node" ref="17861291" role="label"/>
+    <member type="way" ref="25693706" role="outer"/>
+    <member type="way" ref="139316933" role="outer"/>
+    <member type="way" ref="139320119" role="outer"/>
+    <member type="way" ref="139317313" role="outer"/>
+    <member type="way" ref="140150673" role="outer"/>
+    <member type="way" ref="139317011" role="outer"/>
+    <member type="way" ref="139319259" role="outer"/>
+    <member type="way" ref="140150107" role="outer"/>
+    <member type="way" ref="140150102" role="outer"/>
+    <member type="way" ref="140099745" role="outer"/>
+    <member type="way" ref="139318582" role="outer"/>
+    <member type="way" ref="28194761" role="outer"/>
+    <member type="way" ref="175346319" role="outer"/>
+    <member type="way" ref="175430861" role="outer"/>
+    <member type="way" ref="143488049" role="outer"/>
+    <member type="way" ref="128294102" role="outer"/>
+    <member type="way" ref="143488050" role="outer"/>
+    <member type="way" ref="128294096" role="outer"/>
+    <member type="way" ref="22090095" role="outer"/>
+    <member type="way" ref="128294124" role="outer"/>
+    <member type="way" ref="148203256" role="outer"/>
+    <member type="way" ref="148308675" role="outer"/>
+    <member type="way" ref="148203254" role="outer"/>
+    <member type="way" ref="148308679" role="outer"/>
+    <member type="way" ref="148308680" role="outer"/>
+    <member type="way" ref="148308674" role="outer"/>
+    <member type="way" ref="148308676" role="outer"/>
+    <member type="way" ref="124220261" role="outer"/>
+    <member type="way" ref="167827977" role="outer"/>
+    <member type="way" ref="167827950" role="outer"/>
+    <member type="way" ref="167827981" role="outer"/>
+    <member type="way" ref="167827949" role="outer"/>
+    <member type="way" ref="186336651" role="outer"/>
+    <member type="way" ref="186336652" role="outer"/>
+    <member type="way" ref="28770196" role="outer"/>
+    <member type="way" ref="28770199" role="outer"/>
+    <member type="way" ref="28770200" role="outer"/>
+    <member type="way" ref="101320424" role="outer"/>
+    <member type="way" ref="37087240" role="outer"/>
+    <member type="way" ref="37086268" role="outer"/>
+    <member type="way" ref="37087327" role="outer"/>
+    <member type="way" ref="142492568" role="outer"/>
+    <member type="way" ref="142491075" role="outer"/>
+    <member type="way" ref="142482998" role="outer"/>
+    <member type="way" ref="142285383" role="outer"/>
+    <member type="way" ref="23842506" role="outer"/>
+    <member type="way" ref="28997846" role="outer"/>
+    <member type="way" ref="142479940" role="outer"/>
+    <member type="way" ref="23876022" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Birmingham"/>
+    <tag k="ons_code" v="00CN"/>
+    <tag k="place" v="city"/>
+    <tag k="source" v="NPE;OS_OpenBoundaryLIne"/>
+    <tag k="source:ons_code" v="OS_OpenData_CodePoint Codelist.txt"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikipedia" v="en:Birmingham"/>
+  </relation>
+  <relation id="175342">
+    <member type="node" ref="107775" role="admin_centre"/>
+    <member type="way" ref="175801581" role="outer"/>
+    <member type="way" ref="217667249" role="outer"/>
+    <member type="way" ref="228424047" role="outer"/>
+    <member type="way" ref="175801589" role="outer"/>
+    <member type="way" ref="175801582" role="outer"/>
+    <member type="way" ref="175801585" role="outer"/>
+    <member type="way" ref="175801587" role="outer"/>
+    <member type="way" ref="175802313" role="outer"/>
+    <member type="way" ref="169724953" role="outer"/>
+    <member type="way" ref="175815426" role="outer"/>
+    <member type="way" ref="175815427" role="outer"/>
+    <member type="way" ref="175814610" role="outer"/>
+    <member type="way" ref="175813836" role="outer"/>
+    <member type="way" ref="175813837" role="outer"/>
+    <member type="way" ref="169761320" role="outer"/>
+    <member type="way" ref="169761329" role="outer"/>
+    <member type="way" ref="175186867" role="outer"/>
+    <member type="way" ref="175186868" role="outer"/>
+    <member type="way" ref="124350105" role="outer"/>
+    <member type="way" ref="169494872" role="outer"/>
+    <member type="way" ref="195917571" role="outer"/>
+    <member type="way" ref="189468605" role="outer"/>
+    <member type="way" ref="170168645" role="outer"/>
+    <member type="way" ref="189468606" role="outer"/>
+    <member type="way" ref="182391538" role="outer"/>
+    <member type="way" ref="195005710" role="outer"/>
+    <member type="way" ref="182429378" role="outer"/>
+    <member type="way" ref="189468604" role="outer"/>
+    <member type="way" ref="169495943" role="outer"/>
+    <member type="way" ref="182927167" role="outer"/>
+    <member type="way" ref="183087936" role="outer"/>
+    <member type="way" ref="169498352" role="outer"/>
+    <member type="way" ref="189468603" role="outer"/>
+    <member type="way" ref="189468601" role="outer"/>
+    <member type="way" ref="166061683" role="outer"/>
+    <member type="way" ref="172077227" role="outer"/>
+    <member type="way" ref="171710949" role="outer"/>
+    <member type="way" ref="171563792" role="outer"/>
+    <member type="way" ref="171281051" role="outer"/>
+    <member type="way" ref="171142535" role="outer"/>
+    <member type="way" ref="171047966" role="outer"/>
+    <member type="way" ref="165897958" role="outer"/>
+    <member type="way" ref="166119963" role="outer"/>
+    <member type="way" ref="175128716" role="outer"/>
+    <member type="way" ref="183618209" role="outer"/>
+    <member type="way" ref="183618216" role="outer"/>
+    <member type="way" ref="193564050" role="outer"/>
+    <member type="way" ref="193564003" role="outer"/>
+    <member type="way" ref="193564047" role="outer"/>
+    <member type="way" ref="199408943" role="outer"/>
+    <member type="way" ref="199408931" role="outer"/>
+    <member type="way" ref="199570721" role="outer"/>
+    <member type="way" ref="199793852" role="outer"/>
+    <member type="way" ref="199793851" role="outer"/>
+    <member type="way" ref="199793849" role="outer"/>
+    <member type="way" ref="199793848" role="outer"/>
+    <member type="way" ref="199815433" role="outer"/>
+    <member type="way" ref="199815423" role="outer"/>
+    <member type="way" ref="199815430" role="outer"/>
+    <member type="way" ref="202187502" role="outer"/>
+    <member type="way" ref="204503391" role="outer"/>
+    <member type="way" ref="204503388" role="outer"/>
+    <member type="way" ref="230678410" role="outer"/>
+    <member type="way" ref="202190524" role="outer"/>
+    <member type="way" ref="202464106" role="outer"/>
+    <member type="way" ref="202719857" role="outer"/>
+    <member type="way" ref="202731708" role="outer"/>
+    <member type="way" ref="202731706" role="outer"/>
+    <member type="way" ref="202731707" role="outer"/>
+    <member type="way" ref="203295779" role="outer"/>
+    <member type="way" ref="203295773" role="outer"/>
+    <tag k="admin_level" v="5"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Greater London"/>
+    <tag k="name:de" v="Groß-London"/>
+    <tag k="name:en" v="Greater London"/>
+    <tag k="name:fr" v="Grand Londres"/>
+    <tag k="note" v="This region relation includes the City of London"/>
+    <tag k="official_name" v="Greater London (incl. City of London)"/>
+    <tag k="place" v="city"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikipedia" v="de:Greater London"/>
+  </relation>
+  <relation id="335184">
+    <member type="way" ref="44581789" role="outer"/>
+    <member type="way" ref="45779861" role="outer"/>
+    <member type="way" ref="45779864" role="outer"/>
+    <member type="way" ref="198950843" role="outer"/>
+    <member type="way" ref="198950841" role="outer"/>
+    <member type="way" ref="198950844" role="outer"/>
+    <member type="way" ref="46151580" role="outer"/>
+    <member type="way" ref="198956718" role="outer"/>
+    <member type="way" ref="198956704" role="outer"/>
+    <member type="way" ref="198956719" role="outer"/>
+    <member type="way" ref="198956716" role="outer"/>
+    <member type="way" ref="198956717" role="outer"/>
+    <member type="way" ref="198956696" role="outer"/>
+    <member type="node" ref="26700977" role="admin_centre"/>
+    <member type="way" ref="204899368" role="outer"/>
+    <member type="way" ref="204915924" role="outer"/>
+    <member type="way" ref="204915915" role="outer"/>
+    <member type="way" ref="204915921" role="outer"/>
+    <tag k="admin_level" v="6"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="designation" v="principal_area"/>
+    <tag k="is_in:country" v="United Kingdom"/>
+    <tag k="is_in:country_code" v="GB"/>
+    <tag k="is_in:historic_county" v="Monmouthshire"/>
+    <tag k="name" v="Newport"/>
+    <tag k="name:cy" v="Casnewydd"/>
+    <tag k="official_name" v="City of Newport"/>
+    <tag k="ons_code" v="00PR"/>
+    <tag k="place" v="city"/>
+    <tag k="source:ons_code" v="OS_OpenData_CodePoint Codelist.txt"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikipedia" v="en:Newport"/>
+  </relation>
+  <relation id="1061133">
+    <member type="way" ref="67125034" role="outer"/>
+    <member type="way" ref="67125072" role="outer"/>
+    <member type="way" ref="144946893" role="outer"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="is_in" v="Isle of Man"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Peel"/>
+    <tag k="name:en" v="Peel"/>
+    <tag k="name:gd" v="Purt na hInshey"/>
+    <tag k="name:gv" v="Purt ny h-Inshey"/>
+    <tag k="name:ru" v="Пил"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="4280"/>
+    <tag k="source" v="Isle of Man Government 1:25000 map (2007)"/>
+    <tag k="source:population" v="Isle of Man interim census (2006)"/>
+    <tag k="type" v="boundary"/>
+    <tag k="woeid" v="538695"/>
+  </relation>
+  <relation id="1109531">
+    <member type="node" ref="1415971522" role="admin_centre"/>
+    <member type="way" ref="127680073" role="outer"/>
+    <member type="way" ref="55412188" role="outer"/>
+    <member type="way" ref="55412180" role="outer"/>
+    <member type="way" ref="55412158" role="outer"/>
+    <member type="way" ref="55412190" role="outer"/>
+    <member type="way" ref="71537244" role="outer"/>
+    <member type="way" ref="71537241" role="outer"/>
+    <member type="way" ref="77545188" role="outer"/>
+    <member type="way" ref="77626391" role="outer"/>
+    <member type="way" ref="77548897" role="outer"/>
+    <member type="way" ref="77626383" role="outer"/>
+    <member type="way" ref="77545202" role="outer"/>
+    <member type="way" ref="71337314" role="outer"/>
+    <member type="way" ref="77547367" role="outer"/>
+    <member type="way" ref="76726578" role="outer"/>
+    <member type="way" ref="76300302" role="outer"/>
+    <member type="way" ref="128947248" role="outer"/>
+    <member type="way" ref="76300289" role="outer"/>
+    <member type="way" ref="128947244" role="outer"/>
+    <member type="way" ref="77531167" role="outer"/>
+    <member type="way" ref="77538613" role="outer"/>
+    <member type="way" ref="77538592" role="outer"/>
+    <member type="way" ref="77561874" role="outer"/>
+    <member type="way" ref="77543126" role="outer"/>
+    <member type="way" ref="81047515" role="outer"/>
+    <member type="way" ref="81047513" role="outer"/>
+    <member type="way" ref="77710927" role="outer"/>
+    <member type="way" ref="77710934" role="outer"/>
+    <member type="way" ref="77710926" role="outer"/>
+    <member type="way" ref="77710914" role="outer"/>
+    <member type="way" ref="76736545" role="outer"/>
+    <member type="way" ref="18182512" role="outer"/>
+    <member type="way" ref="77710936" role="outer"/>
+    <member type="way" ref="76645195" role="outer"/>
+    <member type="way" ref="76645185" role="outer"/>
+    <member type="way" ref="74433013" role="outer"/>
+    <member type="way" ref="22715741" role="outer"/>
+    <member type="way" ref="216630760" role="outer"/>
+    <member type="way" ref="216630757" role="outer"/>
+    <member type="way" ref="216630765" role="outer"/>
+    <member type="way" ref="216630762" role="outer"/>
+    <member type="way" ref="216630763" role="outer"/>
+    <member type="way" ref="216630758" role="outer"/>
+    <member type="way" ref="216646026" role="outer"/>
+    <member type="way" ref="216646029" role="outer"/>
+    <member type="way" ref="216646024" role="outer"/>
+    <member type="way" ref="216646031" role="outer"/>
+    <member type="way" ref="216646028" role="outer"/>
+    <member type="way" ref="74432966" role="outer"/>
+    <member type="way" ref="77638535" role="outer"/>
+    <member type="way" ref="71461564" role="outer"/>
+    <member type="way" ref="165642619" role="outer"/>
+    <member type="way" ref="6188246" role="outer"/>
+    <member type="way" ref="165516063" role="outer"/>
+    <member type="way" ref="165567943" role="outer"/>
+    <member type="way" ref="165516064" role="outer"/>
+    <member type="way" ref="166566492" role="outer"/>
+    <member type="way" ref="165567944" role="outer"/>
+    <member type="way" ref="166566493" role="outer"/>
+    <member type="way" ref="166606382" role="outer"/>
+    <member type="way" ref="71433703" role="outer"/>
+    <member type="way" ref="165568784" role="outer"/>
+    <member type="way" ref="6188248" role="outer"/>
+    <member type="way" ref="77616822" role="outer"/>
+    <member type="way" ref="169051394" role="outer"/>
+    <member type="way" ref="127681058" role="outer"/>
+    <member type="way" ref="127681059" role="outer"/>
+    <member type="way" ref="127681060" role="outer"/>
+    <member type="way" ref="77617909" role="outer"/>
+    <member type="way" ref="71461679" role="outer"/>
+    <member type="way" ref="131382462" role="outer"/>
+    <member type="way" ref="71441706" role="outer"/>
+    <member type="way" ref="169051395" role="outer"/>
+    <member type="way" ref="4287289" role="outer"/>
+    <member type="way" ref="56052075" role="outer"/>
+    <member type="way" ref="56052078" role="outer"/>
+    <member type="way" ref="169376045" role="outer"/>
+    <member type="way" ref="169376044" role="outer"/>
+    <member type="way" ref="71455532" role="outer"/>
+    <member type="way" ref="3819305" role="outer"/>
+    <member type="way" ref="169127616" role="outer"/>
+    <member type="way" ref="168339841" role="outer"/>
+    <member type="way" ref="71522657" role="outer"/>
+    <member type="way" ref="168339840" role="outer"/>
+    <member type="way" ref="168339842" role="outer"/>
+    <tag k="admin_level" v="7"/>
+    <tag k="alt_name:ga" v="Duibhlinn"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Dublin"/>
+    <tag k="name:en" v="Dublin"/>
+    <tag k="name:fr" v="Dublin"/>
+    <tag k="name:ga" v="Baile Átha Cliath"/>
+    <tag k="place" v="city"/>
+    <tag k="source" v="Best rough guess"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1390623">
+    <member type="node" ref="582043319" role="admin_centre"/>
+    <member type="way" ref="96567091" role=""/>
+    <member type="way" ref="25048805" role=""/>
+    <member type="way" ref="128069617" role=""/>
+    <member type="way" ref="128069624" role=""/>
+    <member type="way" ref="4563078" role=""/>
+    <member type="way" ref="4563082" role=""/>
+    <member type="way" ref="212026387" role=""/>
+    <member type="way" ref="23428975" role=""/>
+    <member type="way" ref="4563087" role=""/>
+    <tag k="admin_level" v="7"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Galway"/>
+    <tag k="name:ga" v="Gaillimh"/>
+    <tag k="name:ru" v="Голуэй"/>
+    <tag k="place" v="city"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="1645570">
+    <member type="way" ref="153449679" role="outer"/>
+    <member type="way" ref="152716754" role="outer"/>
+    <member type="way" ref="119847815" role="outer"/>
+    <member type="way" ref="119847807" role="outer"/>
+    <member type="way" ref="119847812" role="outer"/>
+    <member type="way" ref="119847793" role="outer"/>
+    <member type="way" ref="119847727" role="outer"/>
+    <member type="way" ref="119847801" role="outer"/>
+    <member type="way" ref="45328207" role="outer"/>
+    <member type="way" ref="119847819" role="outer"/>
+    <member type="way" ref="58412135" role="outer"/>
+    <member type="way" ref="119847799" role="outer"/>
+    <member type="way" ref="119847735" role="outer"/>
+    <member type="way" ref="119847813" role="outer"/>
+    <member type="way" ref="69257984" role="outer"/>
+    <member type="way" ref="119847728" role="outer"/>
+    <member type="way" ref="119847820" role="outer"/>
+    <member type="way" ref="119847767" role="outer"/>
+    <member type="way" ref="42150322" role="outer"/>
+    <member type="way" ref="42150324" role="outer"/>
+    <member type="way" ref="119847805" role="outer"/>
+    <member type="way" ref="34141767" role="outer"/>
+    <member type="way" ref="59468838" role="outer"/>
+    <member type="way" ref="119847809" role="outer"/>
+    <member type="way" ref="23809168" role="outer"/>
+    <member type="way" ref="71221594" role="outer"/>
+    <member type="way" ref="33267738" role="outer"/>
+    <member type="way" ref="119847724" role="outer"/>
+    <member type="way" ref="119847772" role="outer"/>
+    <member type="way" ref="79288171" role="outer"/>
+    <member type="way" ref="119847829" role="outer"/>
+    <member type="way" ref="69331703" role="outer"/>
+    <tag k="admin_level" v="7"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Waterford"/>
+    <tag k="name:en" v="Waterford"/>
+    <tag k="name:ga" v="Port Láirge"/>
+    <tag k="name:ru" v="Уотерфорд"/>
+    <tag k="note" v="Waterford City boundary"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="40300"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+
+</osm>

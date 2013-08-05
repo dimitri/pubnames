@@ -8,22 +8,30 @@
 (defparameter *pub-xml-pathname*
   (asdf:system-relative-pathname :pubnames "pub.xml"))
 
+(defparameter *ukcities-xml-pathname*
+  (asdf:system-relative-pathname :pubnames "ukcities.xml"))
+
 (defparameter *pgconn* '("dim" "dim" "none" "localhost" :port 54393)
   "PostgreSQL Connection String")
 
-(defparameter *pg-table-name* "pubnames" "PostgreSQL table to use.")
+(defparameter *pub-table-name* "pubnames" "PostgreSQL table to use for pubs.")
+(defparameter *cities-table-name* "cities" "PostgreSQL table to use for cities.")
 
-(defparameter *pg-create-table*
+(defparameter *pub-create-table*
   (format nil "create table if not exists ~a
-                (id bigint, pos point, name text)" *pg-table-name*)
-  "PostgreSQL query to create the table")
+                (id bigint, pos point, name text)" *pub-table-name*)
+  "PostgreSQL query to create the pub table")
+
+(defparameter *cities-create-table*
+  (format nil "create table if not exists ~a
+                (id bigint, pos point, name text)"
+	  *cities-table-name*)
+  "PostgreSQL query to create the cities table")
 
 (defvar *current-osm* nil "Current NODE being parsed")
 (defvar *current-tag* nil "Current TAG node being parsed")
 
-(defstruct osm
-  id lat lon
-  amenity created_by name phone postal_code)
+(defstruct osm id lat lon name)
 
 (defun osm-parse-node-attr (ns name fqdn value s-p)
   "Maybe add the current <node> attribute to the O osm struct"
@@ -82,30 +90,34 @@
 (defmethod osm-to-pgsql ((o osm))
   "Convert an OSM struct to a list that we can send over to PostgreSQL"
   (list (osm-id o)
-	(format nil "(~a,~a)" (osm-lat o) (osm-lon o))
+	(format nil "(~a,~a)" (osm-lon o) (osm-lat o))
 	(osm-name o)))
 
-(defun maybe-create-postgresql-table (&key drop truncate)
+(defun maybe-create-postgresql-table (&key table-name sql drop truncate)
   "If our *pg-table-name* does not exists, create it"
   (with-connection *pgconn*
     (when drop
-      (execute (format nil "drop table if exists ~a;" *pg-table-name*)))
+      (execute (format nil "drop table if exists ~a;" table-name)))
 
-    (execute *pg-create-table*)
+    (execute sql)
 
     (when truncate
-      (execute (format nil "truncate ~a;" *pg-table-name*)))))
+      (execute (format nil "truncate ~a;" table-name)))))
 
-(defun parse-osm-file (&key
-			 (pathname *pub-xml-pathname*)
+(defun import-osm-file (&key
+			 table-name sql pathname
 			 (truncate t)
 			 (drop nil))
   "Parse the given PATHNAME file, formated as OSM XML."
-  (maybe-create-postgresql-table :drop drop :truncate truncate)
+  (maybe-create-postgresql-table :table-name table-name
+				 :sql sql
+				 :drop drop
+				 :truncate truncate)
+
   (klacks:with-open-source (s (cxml:make-source pathname))
     (loop
        with stream =
-	 (cl-postgres:open-db-writer (remove :port *pgconn*) *pg-table-name* nil)
+	 (cl-postgres:open-db-writer (remove :port *pgconn*) table-name nil)
        for key = (klacks:peek s)
        while key
        do
@@ -116,3 +128,20 @@
 
        finally (return (cl-postgres:close-db-writer stream)))))
 
+(defun import-pub-names-and-cities (&key (truncate t) (drop nil))
+  "Import all our data into some PostgreSQL tables."
+  (format t "Importing pub names...")
+  (import-osm-file :pathname *pub-xml-pathname*
+		   :table-name *pub-table-name*
+		   :sql *pub-create-table*
+		   :drop drop
+		   :truncate truncate)
+  (format t "~%")
+
+  (format t "Importing UK cities...")
+  (import-osm-file :pathname *ukcities-xml-pathname*
+		   :table-name *cities-table-name*
+		   :sql *cities-create-table*
+		   :drop drop
+		   :truncate truncate)
+  (format t "~%"))
